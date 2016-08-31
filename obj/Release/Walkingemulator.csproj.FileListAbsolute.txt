@@ -1,0 +1,9 @@
+G:\AutoSyncWithParis-Server\My Programs\dotNet\Walkingemulator\Walkingemulator\bin\Release\Walkingemulator.exe.config
+G:\AutoSyncWithParis-Server\My Programs\dotNet\Walkingemulator\Walkingemulator\bin\Release\Walkingemulator.exe
+G:\AutoSyncWithParis-Server\My Programs\dotNet\Walkingemulator\Walkingemulator\bin\Release\Walkingemulator.pdb
+G:\AutoSyncWithParis-Server\My Programs\dotNet\Walkingemulator\Walkingemulator\obj\Release\Walkingemulator.frmMain.resources
+G:\AutoSyncWithParis-Server\My Programs\dotNet\Walkingemulator\Walkingemulator\obj\Release\Walkingemulator.Properties.Resources.resources
+G:\AutoSyncWithParis-Server\My Programs\dotNet\Walkingemulator\Walkingemulator\obj\Release\Walkingemulator.csproj.GenerateResource.Cache
+G:\AutoSyncWithParis-Server\My Programs\dotNet\Walkingemulator\Walkingemulator\obj\Release\Walkingemulator.exe
+G:\AutoSyncWithParis-Server\My Programs\dotNet\Walkingemulator\Walkingemulator\obj\Release\Walkingemulator.pdb
+G:\AutoSyncWithParis-Server\My Programs\dotNet\Walkingemulator\Walkingemulator\obj\Release\Walkingemulator.csprojResolveAssemblyReference.cache

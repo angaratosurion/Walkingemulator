@@ -1,0 +1,3777 @@
+gps setlatitude 41,087214
+gps setlongitude 23,549461
+pause 1
+gps setlatitude 41,087235
+gps setlongitude 23,549507
+pause 1
+gps setlatitude 41,08723
+gps setlongitude 23,549544
+pause 1
+gps setlatitude 41,087249
+gps setlongitude 23,549589
+pause 1
+gps setlatitude 41,087282
+gps setlongitude 23,549598
+pause 1
+gps setlatitude 41,08731
+gps setlongitude 23,549603
+pause 1
+gps setlatitude 41,087337
+gps setlongitude 23,549612
+pause 1
+gps setlatitude 41,087363
+gps setlongitude 23,549624
+pause 1
+gps setlatitude 41,087403
+gps setlongitude 23,549676
+pause 1
+gps setlatitude 41,087368
+gps setlongitude 23,549678
+pause 1
+gps setlatitude 41,087333
+gps setlongitude 23,549696
+pause 1
+gps setlatitude 41,087308
+gps setlongitude 23,549718
+pause 1
+gps setlatitude 41,087281
+gps setlongitude 23,549761
+pause 1
+gps setlatitude 41,087303
+gps setlongitude 23,549815
+pause 1
+gps setlatitude 41,087319
+gps setlongitude 23,549854
+pause 1
+gps setlatitude 41,087344
+gps setlongitude 23,549891
+pause 1
+gps setlatitude 41,087372
+gps setlongitude 23,549922
+pause 1
+gps setlatitude 41,087401
+gps setlongitude 23,549976
+pause 1
+gps setlatitude 41,087419
+gps setlongitude 23,550013
+pause 1
+gps setlatitude 41,087435
+gps setlongitude 23,550063
+pause 1
+gps setlatitude 41,087452
+gps setlongitude 23,550097
+pause 1
+gps setlatitude 41,087469
+gps setlongitude 23,550128
+pause 1
+gps setlatitude 41,087494
+gps setlongitude 23,550165
+pause 1
+gps setlatitude 41,087514
+gps setlongitude 23,550205
+pause 1
+gps setlatitude 41,087544
+gps setlongitude 23,550241
+pause 1
+gps setlatitude 41,087571
+gps setlongitude 23,550277
+pause 1
+gps setlatitude 41,087588
+gps setlongitude 23,550308
+pause 1
+gps setlatitude 41,087635
+gps setlongitude 23,550335
+pause 1
+gps setlatitude 41,087654
+gps setlongitude 23,550361
+pause 1
+gps setlatitude 41,087682
+gps setlongitude 23,550381
+pause 1
+gps setlatitude 41,087723
+gps setlongitude 23,550421
+pause 1
+gps setlatitude 41,087761
+gps setlongitude 23,550446
+pause 1
+gps setlatitude 41,087794
+gps setlongitude 23,550423
+pause 1
+gps setlatitude 41,087819
+gps setlongitude 23,550406
+pause 1
+gps setlatitude 41,087844
+gps setlongitude 23,550438
+pause 1
+gps setlatitude 41,087869
+gps setlongitude 23,550414
+pause 1
+gps setlatitude 41,087875
+gps setlongitude 23,550375
+pause 1
+gps setlatitude 41,087899
+gps setlongitude 23,550355
+pause 1
+gps setlatitude 41,087953
+gps setlongitude 23,550326
+pause 1
+gps setlatitude 41,087987
+gps setlongitude 23,550332
+pause 1
+gps setlatitude 41,088027
+gps setlongitude 23,550357
+pause 1
+gps setlatitude 41,088071
+gps setlongitude 23,550367
+pause 1
+gps setlatitude 41,088119
+gps setlongitude 23,550378
+pause 1
+gps setlatitude 41,088155
+gps setlongitude 23,550375
+pause 1
+gps setlatitude 41,088187
+gps setlongitude 23,550371
+pause 1
+gps setlatitude 41,088222
+gps setlongitude 23,550381
+pause 1
+gps setlatitude 41,08826
+gps setlongitude 23,550406
+pause 1
+gps setlatitude 41,088277
+gps setlongitude 23,550437
+pause 1
+gps setlatitude 41,088321
+gps setlongitude 23,550404
+pause 1
+gps setlatitude 41,088348
+gps setlongitude 23,550385
+pause 1
+gps setlatitude 41,088397
+gps setlongitude 23,550395
+pause 1
+gps setlatitude 41,088422
+gps setlongitude 23,55043
+pause 1
+gps setlatitude 41,088456
+gps setlongitude 23,550465
+pause 1
+gps setlatitude 41,088496
+gps setlongitude 23,550484
+pause 1
+gps setlatitude 41,088533
+gps setlongitude 23,550501
+pause 1
+gps setlatitude 41,088525
+gps setlongitude 23,550568
+pause 1
+gps setlatitude 41,088549
+gps setlongitude 23,550593
+pause 1
+gps setlatitude 41,08853
+gps setlongitude 23,550621
+pause 1
+gps setlatitude 41,088556
+gps setlongitude 23,550657
+pause 1
+gps setlatitude 41,088598
+gps setlongitude 23,550686
+pause 1
+gps setlatitude 41,088627
+gps setlongitude 23,550719
+pause 1
+gps setlatitude 41,088654
+gps setlongitude 23,550736
+pause 1
+gps setlatitude 41,088686
+gps setlongitude 23,550748
+pause 1
+gps setlatitude 41,088713
+gps setlongitude 23,550742
+pause 1
+gps setlatitude 41,088739
+gps setlongitude 23,550759
+pause 1
+gps setlatitude 41,088751
+gps setlongitude 23,550802
+pause 1
+gps setlatitude 41,088785
+gps setlongitude 23,550822
+pause 1
+gps setlatitude 41,088816
+gps setlongitude 23,550813
+pause 1
+gps setlatitude 41,08885
+gps setlongitude 23,550826
+pause 1
+gps setlatitude 41,088876
+gps setlongitude 23,550848
+pause 1
+gps setlatitude 41,088907
+gps setlongitude 23,550883
+pause 1
+gps setlatitude 41,088935
+gps setlongitude 23,550919
+pause 1
+gps setlatitude 41,088965
+gps setlongitude 23,550951
+pause 1
+gps setlatitude 41,088988
+gps setlongitude 23,550979
+pause 1
+gps setlatitude 41,088994
+gps setlongitude 23,551027
+pause 1
+gps setlatitude 41,088973
+gps setlongitude 23,551106
+pause 1
+gps setlatitude 41,088966
+gps setlongitude 23,551146
+pause 1
+gps setlatitude 41,088965
+gps setlongitude 23,551208
+pause 1
+gps setlatitude 41,088983
+gps setlongitude 23,551253
+pause 1
+gps setlatitude 41,089006
+gps setlongitude 23,551274
+pause 1
+gps setlatitude 41,089045
+gps setlongitude 23,551296
+pause 1
+gps setlatitude 41,089086
+gps setlongitude 23,551288
+pause 1
+gps setlatitude 41,08913
+gps setlongitude 23,55129
+pause 1
+gps setlatitude 41,089167
+gps setlongitude 23,551299
+pause 1
+gps setlatitude 41,089186
+gps setlongitude 23,551332
+pause 1
+gps setlatitude 41,089196
+gps setlongitude 23,551384
+pause 1
+gps setlatitude 41,089202
+gps setlongitude 23,551429
+pause 1
+gps setlatitude 41,089212
+gps setlongitude 23,551494
+pause 1
+gps setlatitude 41,089217
+gps setlongitude 23,551547
+pause 1
+gps setlatitude 41,089222
+gps setlongitude 23,551584
+pause 1
+gps setlatitude 41,089241
+gps setlongitude 23,551645
+pause 1
+gps setlatitude 41,089272
+gps setlongitude 23,551658
+pause 1
+gps setlatitude 41,089305
+gps setlongitude 23,551616
+pause 1
+gps setlatitude 41,089328
+gps setlongitude 23,551576
+pause 1
+gps setlatitude 41,089348
+gps setlongitude 23,55154
+pause 1
+gps setlatitude 41,089388
+gps setlongitude 23,551511
+pause 1
+gps setlatitude 41,089428
+gps setlongitude 23,551498
+pause 1
+gps setlatitude 41,089477
+gps setlongitude 23,551525
+pause 1
+gps setlatitude 41,089508
+gps setlongitude 23,551549
+pause 1
+gps setlatitude 41,089562
+gps setlongitude 23,551598
+pause 1
+gps setlatitude 41,089605
+gps setlongitude 23,551621
+pause 1
+gps setlatitude 41,089644
+gps setlongitude 23,551641
+pause 1
+gps setlatitude 41,08967
+gps setlongitude 23,551652
+pause 1
+gps setlatitude 41,089701
+gps setlongitude 23,551665
+pause 1
+gps setlatitude 41,089726
+gps setlongitude 23,55169
+pause 1
+gps setlatitude 41,089749
+gps setlongitude 23,551715
+pause 1
+gps setlatitude 41,089759
+gps setlongitude 23,551757
+pause 1
+gps setlatitude 41,089788
+gps setlongitude 23,551749
+pause 1
+gps setlatitude 41,089821
+gps setlongitude 23,55171
+pause 1
+gps setlatitude 41,089875
+gps setlongitude 23,551408
+pause 1
+gps setlatitude 41,089907
+gps setlongitude 23,551401
+pause 1
+gps setlatitude 41,089946
+gps setlongitude 23,551416
+pause 1
+gps setlatitude 41,089972
+gps setlongitude 23,551425
+pause 1
+gps setlatitude 41,090013
+gps setlongitude 23,551428
+pause 1
+gps setlatitude 41,090042
+gps setlongitude 23,551411
+pause 1
+gps setlatitude 41,090076
+gps setlongitude 23,551403
+pause 1
+gps setlatitude 41,09011
+gps setlongitude 23,551389
+pause 1
+gps setlatitude 41,090137
+gps setlongitude 23,55139
+pause 1
+gps setlatitude 41,090149
+gps setlongitude 23,551424
+pause 1
+gps setlatitude 41,090151
+gps setlongitude 23,551467
+pause 1
+gps setlatitude 41,09016
+gps setlongitude 23,551507
+pause 1
+gps setlatitude 41,090179
+gps setlongitude 23,551545
+pause 1
+gps setlatitude 41,090528
+gps setlongitude 23,551378
+pause 1
+gps setlatitude 41,090563
+gps setlongitude 23,551395
+pause 1
+gps setlatitude 41,090599
+gps setlongitude 23,551415
+pause 1
+gps setlatitude 41,090632
+gps setlongitude 23,551432
+pause 1
+gps setlatitude 41,090675
+gps setlongitude 23,551458
+pause 1
+gps setlatitude 41,090705
+gps setlongitude 23,551481
+pause 1
+gps setlatitude 41,090734
+gps setlongitude 23,551499
+pause 1
+gps setlatitude 41,090757
+gps setlongitude 23,551518
+pause 1
+gps setlatitude 41,090765
+gps setlongitude 23,551564
+pause 1
+gps setlatitude 41,090774
+gps setlongitude 23,551604
+pause 1
+gps setlatitude 41,090788
+gps setlongitude 23,551651
+pause 1
+gps setlatitude 41,090811
+gps setlongitude 23,551671
+pause 1
+gps setlatitude 41,09084
+gps setlongitude 23,551686
+pause 1
+gps setlatitude 41,090879
+gps setlongitude 23,551713
+pause 1
+gps setlatitude 41,090898
+gps setlongitude 23,551756
+pause 1
+gps setlatitude 41,090908
+gps setlongitude 23,551798
+pause 1
+gps setlatitude 41,090927
+gps setlongitude 23,551826
+pause 1
+gps setlatitude 41,090959
+gps setlongitude 23,551874
+pause 1
+gps setlatitude 41,090987
+gps setlongitude 23,551911
+pause 1
+gps setlatitude 41,090993
+gps setlongitude 23,551948
+pause 1
+gps setlatitude 41,090972
+gps setlongitude 23,551976
+pause 1
+gps setlatitude 41,090967
+gps setlongitude 23,552022
+pause 1
+gps setlatitude 41,090935
+gps setlongitude 23,55207
+pause 1
+gps setlatitude 41,090911
+gps setlongitude 23,552126
+pause 1
+gps setlatitude 41,090905
+gps setlongitude 23,55217
+pause 1
+gps setlatitude 41,09091
+gps setlongitude 23,552206
+pause 1
+gps setlatitude 41,090932
+gps setlongitude 23,552226
+pause 1
+gps setlatitude 41,090905
+gps setlongitude 23,552218
+pause 1
+gps setlatitude 41,090925
+gps setlongitude 23,552244
+pause 1
+gps setlatitude 41,090946
+gps setlongitude 23,552282
+pause 1
+gps setlatitude 41,090969
+gps setlongitude 23,552308
+pause 1
+gps setlatitude 41,090995
+gps setlongitude 23,552332
+pause 1
+gps setlatitude 41,091023
+gps setlongitude 23,552357
+pause 1
+gps setlatitude 41,091046
+gps setlongitude 23,552388
+pause 1
+gps setlatitude 41,091067
+gps setlongitude 23,552415
+pause 1
+gps setlatitude 41,091096
+gps setlongitude 23,552418
+pause 1
+gps setlatitude 41,091121
+gps setlongitude 23,552402
+pause 1
+gps setlatitude 41,091149
+gps setlongitude 23,552384
+pause 1
+gps setlatitude 41,091178
+gps setlongitude 23,552381
+pause 1
+gps setlatitude 41,091208
+gps setlongitude 23,552379
+pause 1
+gps setlatitude 41,091234
+gps setlongitude 23,55237
+pause 1
+gps setlatitude 41,091262
+gps setlongitude 23,552391
+pause 1
+gps setlatitude 41,09129
+gps setlongitude 23,552381
+pause 1
+gps setlatitude 41,091321
+gps setlongitude 23,552378
+pause 1
+gps setlatitude 41,091359
+gps setlongitude 23,552381
+pause 1
+gps setlatitude 41,09139
+gps setlongitude 23,552375
+pause 1
+gps setlatitude 41,091419
+gps setlongitude 23,552385
+pause 1
+gps setlatitude 41,091435
+gps setlongitude 23,552419
+pause 1
+gps setlatitude 41,091438
+gps setlongitude 23,552467
+pause 1
+gps setlatitude 41,09145
+gps setlongitude 23,552508
+pause 1
+gps setlatitude 41,09149
+gps setlongitude 23,552513
+pause 1
+gps setlatitude 41,091519
+gps setlongitude 23,552511
+pause 1
+gps setlatitude 41,091552
+gps setlongitude 23,552503
+pause 1
+gps setlatitude 41,091582
+gps setlongitude 23,552495
+pause 1
+gps setlatitude 41,09162
+gps setlongitude 23,552467
+pause 1
+gps setlatitude 41,091635
+gps setlongitude 23,552436
+pause 1
+gps setlatitude 41,091648
+gps setlongitude 23,552393
+pause 1
+gps setlatitude 41,091671
+gps setlongitude 23,552365
+pause 1
+gps setlatitude 41,09171
+gps setlongitude 23,552353
+pause 1
+gps setlatitude 41,091737
+gps setlongitude 23,552368
+pause 1
+gps setlatitude 41,091771
+gps setlongitude 23,552396
+pause 1
+gps setlatitude 41,091805
+gps setlongitude 23,552423
+pause 1
+gps setlatitude 41,091838
+gps setlongitude 23,552444
+pause 1
+gps setlatitude 41,091865
+gps setlongitude 23,552458
+pause 1
+gps setlatitude 41,091883
+gps setlongitude 23,552484
+pause 1
+gps setlatitude 41,091921
+gps setlongitude 23,552485
+pause 1
+gps setlatitude 41,09195
+gps setlongitude 23,552489
+pause 1
+gps setlatitude 41,091989
+gps setlongitude 23,55249
+pause 1
+gps setlatitude 41,092017
+gps setlongitude 23,552489
+pause 1
+gps setlatitude 41,092047
+gps setlongitude 23,552496
+pause 1
+gps setlatitude 41,092075
+gps setlongitude 23,552504
+pause 1
+gps setlatitude 41,092047
+gps setlongitude 23,55251
+pause 1
+gps setlatitude 41,092021
+gps setlongitude 23,552546
+pause 1
+gps setlatitude 41,091996
+gps setlongitude 23,552583
+pause 1
+gps setlatitude 41,091993
+gps setlongitude 23,552646
+pause 1
+gps setlatitude 41,091992
+gps setlongitude 23,552702
+pause 1
+gps setlatitude 41,092008
+gps setlongitude 23,552732
+pause 1
+gps setlatitude 41,092036
+gps setlongitude 23,552726
+pause 1
+gps setlatitude 41,092059
+gps setlongitude 23,552751
+pause 1
+gps setlatitude 41,092075
+gps setlongitude 23,55278
+pause 1
+gps setlatitude 41,092098
+gps setlongitude 23,552817
+pause 1
+gps setlatitude 41,092114
+gps setlongitude 23,552848
+pause 1
+gps setlatitude 41,092115
+gps setlongitude 23,552892
+pause 1
+gps setlatitude 41,092105
+gps setlongitude 23,552935
+pause 1
+gps setlatitude 41,092111
+gps setlongitude 23,552977
+pause 1
+gps setlatitude 41,092132
+gps setlongitude 23,553001
+pause 1
+gps setlatitude 41,092134
+gps setlongitude 23,553043
+pause 1
+gps setlatitude 41,092145
+gps setlongitude 23,553085
+pause 1
+gps setlatitude 41,092153
+gps setlongitude 23,553126
+pause 1
+gps setlatitude 41,092191
+gps setlongitude 23,553168
+pause 1
+gps setlatitude 41,092216
+gps setlongitude 23,553187
+pause 1
+gps setlatitude 41,092243
+gps setlongitude 23,55321
+pause 1
+gps setlatitude 41,092265
+gps setlongitude 23,553241
+pause 1
+gps setlatitude 41,092279
+gps setlongitude 23,553275
+pause 1
+gps setlatitude 41,092281
+gps setlongitude 23,553318
+pause 1
+gps setlatitude 41,092271
+gps setlongitude 23,553353
+pause 1
+gps setlatitude 41,092276
+gps setlongitude 23,553397
+pause 1
+gps setlatitude 41,092316
+gps setlongitude 23,553424
+pause 1
+gps setlatitude 41,092329
+gps setlongitude 23,553471
+pause 1
+gps setlatitude 41,092332
+gps setlongitude 23,553516
+pause 1
+gps setlatitude 41,092335
+gps setlongitude 23,553565
+pause 1
+gps setlatitude 41,092326
+gps setlongitude 23,553618
+pause 1
+gps setlatitude 41,092297
+gps setlongitude 23,553648
+pause 1
+gps setlatitude 41,09226
+gps setlongitude 23,553658
+pause 1
+gps setlatitude 41,092233
+gps setlongitude 23,553672
+pause 1
+gps setlatitude 41,092278
+gps setlongitude 23,553711
+pause 1
+gps setlatitude 41,092312
+gps setlongitude 23,553731
+pause 1
+gps setlatitude 41,092336
+gps setlongitude 23,553748
+pause 1
+gps setlatitude 41,09233
+gps setlongitude 23,553806
+pause 1
+gps setlatitude 41,092331
+gps setlongitude 23,553868
+pause 1
+gps setlatitude 41,092344
+gps setlongitude 23,553911
+pause 1
+gps setlatitude 41,09236
+gps setlongitude 23,553941
+pause 1
+gps setlatitude 41,092389
+gps setlongitude 23,55396
+pause 1
+gps setlatitude 41,092421
+gps setlongitude 23,553986
+pause 1
+gps setlatitude 41,09245
+gps setlongitude 23,554022
+pause 1
+gps setlatitude 41,092492
+gps setlongitude 23,554037
+pause 1
+gps setlatitude 41,092542
+gps setlongitude 23,554059
+pause 1
+gps setlatitude 41,09257
+gps setlongitude 23,55407
+pause 1
+gps setlatitude 41,092605
+gps setlongitude 23,554074
+pause 1
+gps setlatitude 41,092637
+gps setlongitude 23,554081
+pause 1
+gps setlatitude 41,092668
+gps setlongitude 23,554096
+pause 1
+gps setlatitude 41,092698
+gps setlongitude 23,554122
+pause 1
+gps setlatitude 41,092723
+gps setlongitude 23,554151
+pause 1
+gps setlatitude 41,092747
+gps setlongitude 23,554169
+pause 1
+gps setlatitude 41,09278
+gps setlongitude 23,554205
+pause 1
+gps setlatitude 41,092799
+gps setlongitude 23,554239
+pause 1
+gps setlatitude 41,092802
+gps setlongitude 23,554292
+pause 1
+gps setlatitude 41,09281
+gps setlongitude 23,554355
+pause 1
+gps setlatitude 41,092833
+gps setlongitude 23,554409
+pause 1
+gps setlatitude 41,092853
+gps setlongitude 23,554436
+pause 1
+gps setlatitude 41,092871
+gps setlongitude 23,554494
+pause 1
+gps setlatitude 41,092888
+gps setlongitude 23,554552
+pause 1
+gps setlatitude 41,092907
+gps setlongitude 23,5546
+pause 1
+gps setlatitude 41,092897
+gps setlongitude 23,554658
+pause 1
+gps setlatitude 41,092904
+gps setlongitude 23,554706
+pause 1
+gps setlatitude 41,092902
+gps setlongitude 23,554754
+pause 1
+gps setlatitude 41,092898
+gps setlongitude 23,554809
+pause 1
+gps setlatitude 41,092902
+gps setlongitude 23,554874
+pause 1
+gps setlatitude 41,092911
+gps setlongitude 23,554926
+pause 1
+gps setlatitude 41,092924
+gps setlongitude 23,554965
+pause 1
+gps setlatitude 41,092943
+gps setlongitude 23,554995
+pause 1
+gps setlatitude 41,092974
+gps setlongitude 23,555028
+pause 1
+gps setlatitude 41,092993
+gps setlongitude 23,55506
+pause 1
+gps setlatitude 41,093001
+gps setlongitude 23,555097
+pause 1
+gps setlatitude 41,093032
+gps setlongitude 23,555106
+pause 1
+gps setlatitude 41,093067
+gps setlongitude 23,555103
+pause 1
+gps setlatitude 41,093094
+gps setlongitude 23,555128
+pause 1
+gps setlatitude 41,093116
+gps setlongitude 23,555162
+pause 1
+gps setlatitude 41,093136
+gps setlongitude 23,555199
+pause 1
+gps setlatitude 41,093161
+gps setlongitude 23,555235
+pause 1
+gps setlatitude 41,093187
+gps setlongitude 23,555267
+pause 1
+gps setlatitude 41,0932
+gps setlongitude 23,555303
+pause 1
+gps setlatitude 41,093204
+gps setlongitude 23,555355
+pause 1
+gps setlatitude 41,093224
+gps setlongitude 23,555382
+pause 1
+gps setlatitude 41,093252
+gps setlongitude 23,55538
+pause 1
+gps setlatitude 41,093278
+gps setlongitude 23,555393
+pause 1
+gps setlatitude 41,09328
+gps setlongitude 23,555429
+pause 1
+gps setlatitude 41,093282
+gps setlongitude 23,555474
+pause 1
+gps setlatitude 41,093307
+gps setlongitude 23,555516
+pause 1
+gps setlatitude 41,093352
+gps setlongitude 23,555538
+pause 1
+gps setlatitude 41,093385
+gps setlongitude 23,555539
+pause 1
+gps setlatitude 41,093427
+gps setlongitude 23,555556
+pause 1
+gps setlatitude 41,093463
+gps setlongitude 23,555579
+pause 1
+gps setlatitude 41,093489
+gps setlongitude 23,555619
+pause 1
+gps setlatitude 41,093514
+gps setlongitude 23,555675
+pause 1
+gps setlatitude 41,093545
+gps setlongitude 23,555727
+pause 1
+gps setlatitude 41,093579
+gps setlongitude 23,555764
+pause 1
+gps setlatitude 41,093609
+gps setlongitude 23,555801
+pause 1
+gps setlatitude 41,093629
+gps setlongitude 23,55584
+pause 1
+gps setlatitude 41,093661
+gps setlongitude 23,555882
+pause 1
+gps setlatitude 41,093694
+gps setlongitude 23,5559
+pause 1
+gps setlatitude 41,09372
+gps setlongitude 23,555917
+pause 1
+gps setlatitude 41,093743
+gps setlongitude 23,555957
+pause 1
+gps setlatitude 41,093758
+gps setlongitude 23,555988
+pause 1
+gps setlatitude 41,093776
+gps setlongitude 23,556018
+pause 1
+gps setlatitude 41,093796
+gps setlongitude 23,556048
+pause 1
+gps setlatitude 41,093807
+gps setlongitude 23,556087
+pause 1
+gps setlatitude 41,093822
+gps setlongitude 23,55613
+pause 1
+gps setlatitude 41,09383
+gps setlongitude 23,55618
+pause 1
+gps setlatitude 41,093847
+gps setlongitude 23,55623
+pause 1
+gps setlatitude 41,093865
+gps setlongitude 23,556269
+pause 1
+gps setlatitude 41,093889
+gps setlongitude 23,556305
+pause 1
+gps setlatitude 41,093897
+gps setlongitude 23,556352
+pause 1
+gps setlatitude 41,093895
+gps setlongitude 23,55639
+pause 1
+gps setlatitude 41,093899
+gps setlongitude 23,556427
+pause 1
+gps setlatitude 41,093912
+gps setlongitude 23,556462
+pause 1
+gps setlatitude 41,09393
+gps setlongitude 23,556516
+pause 1
+gps setlatitude 41,093942
+gps setlongitude 23,556567
+pause 1
+gps setlatitude 41,093951
+gps setlongitude 23,556612
+pause 1
+gps setlatitude 41,093955
+gps setlongitude 23,556652
+pause 1
+gps setlatitude 41,09398
+gps setlongitude 23,556679
+pause 1
+gps setlatitude 41,094007
+gps setlongitude 23,556706
+pause 1
+gps setlatitude 41,094035
+gps setlongitude 23,556734
+pause 1
+gps setlatitude 41,094063
+gps setlongitude 23,556772
+pause 1
+gps setlatitude 41,094083
+gps setlongitude 23,556811
+pause 1
+gps setlatitude 41,094115
+gps setlongitude 23,556835
+pause 1
+gps setlatitude 41,094149
+gps setlongitude 23,556861
+pause 1
+gps setlatitude 41,094176
+gps setlongitude 23,556893
+pause 1
+gps setlatitude 41,094204
+gps setlongitude 23,556923
+pause 1
+gps setlatitude 41,094237
+gps setlongitude 23,556968
+pause 1
+gps setlatitude 41,094254
+gps setlongitude 23,557003
+pause 1
+gps setlatitude 41,094283
+gps setlongitude 23,557061
+pause 1
+gps setlatitude 41,094307
+gps setlongitude 23,5571
+pause 1
+gps setlatitude 41,094327
+gps setlongitude 23,557127
+pause 1
+gps setlatitude 41,09435
+gps setlongitude 23,557158
+pause 1
+gps setlatitude 41,094381
+gps setlongitude 23,557165
+pause 1
+gps setlatitude 41,094412
+gps setlongitude 23,557158
+pause 1
+gps setlatitude 41,094443
+gps setlongitude 23,557164
+pause 1
+gps setlatitude 41,094473
+gps setlongitude 23,557171
+pause 1
+gps setlatitude 41,094504
+gps setlongitude 23,557163
+pause 1
+gps setlatitude 41,094524
+gps setlongitude 23,557202
+pause 1
+gps setlatitude 41,09453
+gps setlongitude 23,557244
+pause 1
+gps setlatitude 41,094526
+gps setlongitude 23,55728
+pause 1
+gps setlatitude 41,094517
+gps setlongitude 23,557324
+pause 1
+gps setlatitude 41,09452
+gps setlongitude 23,557362
+pause 1
+gps setlatitude 41,094524
+gps setlongitude 23,557432
+pause 1
+gps setlatitude 41,094515
+gps setlongitude 23,557487
+pause 1
+gps setlatitude 41,094491
+gps setlongitude 23,557517
+pause 1
+gps setlatitude 41,094469
+gps setlongitude 23,557548
+pause 1
+gps setlatitude 41,094439
+gps setlongitude 23,557559
+pause 1
+gps setlatitude 41,094413
+gps setlongitude 23,557596
+pause 1
+gps setlatitude 41,094401
+gps setlongitude 23,557631
+pause 1
+gps setlatitude 41,094396
+gps setlongitude 23,557678
+pause 1
+gps setlatitude 41,094389
+gps setlongitude 23,55773
+pause 1
+gps setlatitude 41,094358
+gps setlongitude 23,557783
+pause 1
+gps setlatitude 41,094341
+gps setlongitude 23,557825
+pause 1
+gps setlatitude 41,094311
+gps setlongitude 23,557828
+pause 1
+gps setlatitude 41,094283
+gps setlongitude 23,557802
+pause 1
+gps setlatitude 41,094249
+gps setlongitude 23,557784
+pause 1
+gps setlatitude 41,09422
+gps setlongitude 23,557826
+pause 1
+gps setlatitude 41,094181
+gps setlongitude 23,557833
+pause 1
+gps setlatitude 41,094154
+gps setlongitude 23,557849
+pause 1
+gps setlatitude 41,094125
+gps setlongitude 23,557869
+pause 1
+gps setlatitude 41,094082
+gps setlongitude 23,557859
+pause 1
+gps setlatitude 41,094051
+gps setlongitude 23,557864
+pause 1
+gps setlatitude 41,094016
+gps setlongitude 23,557879
+pause 1
+gps setlatitude 41,093979
+gps setlongitude 23,557878
+pause 1
+gps setlatitude 41,093943
+gps setlongitude 23,557894
+pause 1
+gps setlatitude 41,093911
+gps setlongitude 23,55791
+pause 1
+gps setlatitude 41,093885
+gps setlongitude 23,557924
+pause 1
+gps setlatitude 41,09385
+gps setlongitude 23,557941
+pause 1
+gps setlatitude 41,093817
+gps setlongitude 23,557942
+pause 1
+gps setlatitude 41,093779
+gps setlongitude 23,557941
+pause 1
+gps setlatitude 41,09374
+gps setlongitude 23,557948
+pause 1
+gps setlatitude 41,093711
+gps setlongitude 23,55795
+pause 1
+gps setlatitude 41,093678
+gps setlongitude 23,557955
+pause 1
+gps setlatitude 41,093652
+gps setlongitude 23,557964
+pause 1
+gps setlatitude 41,093619
+gps setlongitude 23,557956
+pause 1
+gps setlatitude 41,093585
+gps setlongitude 23,557952
+pause 1
+gps setlatitude 41,093548
+gps setlongitude 23,557963
+pause 1
+gps setlatitude 41,093512
+gps setlongitude 23,55797
+pause 1
+gps setlatitude 41,093479
+gps setlongitude 23,557987
+pause 1
+gps setlatitude 41,093442
+gps setlongitude 23,558
+pause 1
+gps setlatitude 41,093407
+gps setlongitude 23,558022
+pause 1
+gps setlatitude 41,093368
+gps setlongitude 23,558027
+pause 1
+gps setlatitude 41,093338
+gps setlongitude 23,558043
+pause 1
+gps setlatitude 41,093308
+gps setlongitude 23,558053
+pause 1
+gps setlatitude 41,093281
+gps setlongitude 23,558063
+pause 1
+gps setlatitude 41,093246
+gps setlongitude 23,558081
+pause 1
+gps setlatitude 41,093218
+gps setlongitude 23,558106
+pause 1
+gps setlatitude 41,09319
+gps setlongitude 23,558119
+pause 1
+gps setlatitude 41,093158
+gps setlongitude 23,558129
+pause 1
+gps setlatitude 41,093121
+gps setlongitude 23,55812
+pause 1
+gps setlatitude 41,093095
+gps setlongitude 23,558096
+pause 1
+gps setlatitude 41,093061
+gps setlongitude 23,558064
+pause 1
+gps setlatitude 41,093019
+gps setlongitude 23,558042
+pause 1
+gps setlatitude 41,092979
+gps setlongitude 23,558051
+pause 1
+gps setlatitude 41,092951
+gps setlongitude 23,558056
+pause 1
+gps setlatitude 41,092919
+gps setlongitude 23,558059
+pause 1
+gps setlatitude 41,092886
+gps setlongitude 23,558069
+pause 1
+gps setlatitude 41,092852
+gps setlongitude 23,558069
+pause 1
+gps setlatitude 41,092812
+gps setlongitude 23,558091
+pause 1
+gps setlatitude 41,092788
+gps setlongitude 23,558113
+pause 1
+gps setlatitude 41,092765
+gps setlongitude 23,558146
+pause 1
+gps setlatitude 41,092736
+gps setlongitude 23,558184
+pause 1
+gps setlatitude 41,092702
+gps setlongitude 23,558205
+pause 1
+gps setlatitude 41,092676
+gps setlongitude 23,558216
+pause 1
+gps setlatitude 41,092639
+gps setlongitude 23,558239
+pause 1
+gps setlatitude 41,092599
+gps setlongitude 23,558249
+pause 1
+gps setlatitude 41,092559
+gps setlongitude 23,558244
+pause 1
+gps setlatitude 41,092513
+gps setlongitude 23,55825
+pause 1
+gps setlatitude 41,092475
+gps setlongitude 23,55826
+pause 1
+gps setlatitude 41,092443
+gps setlongitude 23,558275
+pause 1
+gps setlatitude 41,092411
+gps setlongitude 23,55828
+pause 1
+gps setlatitude 41,092384
+gps setlongitude 23,558271
+pause 1
+gps setlatitude 41,092359
+gps setlongitude 23,558296
+pause 1
+gps setlatitude 41,092331
+gps setlongitude 23,55826
+pause 1
+gps setlatitude 41,092295
+gps setlongitude 23,558278
+pause 1
+gps setlatitude 41,092263
+gps setlongitude 23,558301
+pause 1
+gps setlatitude 41,092234
+gps setlongitude 23,558317
+pause 1
+gps setlatitude 41,092195
+gps setlongitude 23,558335
+pause 1
+gps setlatitude 41,092167
+gps setlongitude 23,558365
+pause 1
+gps setlatitude 41,092148
+gps setlongitude 23,558395
+pause 1
+gps setlatitude 41,092134
+gps setlongitude 23,558426
+pause 1
+gps setlatitude 41,092117
+gps setlongitude 23,558457
+pause 1
+gps setlatitude 41,09209
+gps setlongitude 23,558475
+pause 1
+gps setlatitude 41,092052
+gps setlongitude 23,558471
+pause 1
+gps setlatitude 41,092021
+gps setlongitude 23,558494
+pause 1
+gps setlatitude 41,091993
+gps setlongitude 23,558499
+pause 1
+gps setlatitude 41,09196
+gps setlongitude 23,558511
+pause 1
+gps setlatitude 41,091935
+gps setlongitude 23,558527
+pause 1
+gps setlatitude 41,091892
+gps setlongitude 23,558559
+pause 1
+gps setlatitude 41,091861
+gps setlongitude 23,55858
+pause 1
+gps setlatitude 41,091836
+gps setlongitude 23,558601
+pause 1
+gps setlatitude 41,091811
+gps setlongitude 23,558652
+pause 1
+gps setlatitude 41,091786
+gps setlongitude 23,558681
+pause 1
+gps setlatitude 41,091759
+gps setlongitude 23,558705
+pause 1
+gps setlatitude 41,091725
+gps setlongitude 23,558735
+pause 1
+gps setlatitude 41,0917
+gps setlongitude 23,558769
+pause 1
+gps setlatitude 41,091671
+gps setlongitude 23,558787
+pause 1
+gps setlatitude 41,091628
+gps setlongitude 23,558814
+pause 1
+gps setlatitude 41,091595
+gps setlongitude 23,558815
+pause 1
+gps setlatitude 41,091566
+gps setlongitude 23,558822
+pause 1
+gps setlatitude 41,091543
+gps setlongitude 23,558841
+pause 1
+gps setlatitude 41,091516
+gps setlongitude 23,558861
+pause 1
+gps setlatitude 41,091487
+gps setlongitude 23,558889
+pause 1
+gps setlatitude 41,09146
+gps setlongitude 23,558921
+pause 1
+gps setlatitude 41,091427
+gps setlongitude 23,558954
+pause 1
+gps setlatitude 41,091408
+gps setlongitude 23,558982
+pause 1
+gps setlatitude 41,091387
+gps setlongitude 23,559006
+pause 1
+gps setlatitude 41,091357
+gps setlongitude 23,559036
+pause 1
+gps setlatitude 41,091319
+gps setlongitude 23,559044
+pause 1
+gps setlatitude 41,091285
+gps setlongitude 23,559045
+pause 1
+gps setlatitude 41,09125
+gps setlongitude 23,559049
+pause 1
+gps setlatitude 41,091218
+gps setlongitude 23,559044
+pause 1
+gps setlatitude 41,091191
+gps setlongitude 23,559058
+pause 1
+gps setlatitude 41,091161
+gps setlongitude 23,559079
+pause 1
+gps setlatitude 41,091128
+gps setlongitude 23,559089
+pause 1
+gps setlatitude 41,091099
+gps setlongitude 23,5591
+pause 1
+gps setlatitude 41,091071
+gps setlongitude 23,559115
+pause 1
+gps setlatitude 41,091039
+gps setlongitude 23,559125
+pause 1
+gps setlatitude 41,091012
+gps setlongitude 23,559146
+pause 1
+gps setlatitude 41,090978
+gps setlongitude 23,559144
+pause 1
+gps setlatitude 41,090949
+gps setlongitude 23,559159
+pause 1
+gps setlatitude 41,090919
+gps setlongitude 23,559182
+pause 1
+gps setlatitude 41,09088
+gps setlongitude 23,559182
+pause 1
+gps setlatitude 41,090852
+gps setlongitude 23,559184
+pause 1
+gps setlatitude 41,090827
+gps setlongitude 23,559198
+pause 1
+gps setlatitude 41,090794
+gps setlongitude 23,559215
+pause 1
+gps setlatitude 41,09076
+gps setlongitude 23,559221
+pause 1
+gps setlatitude 41,090726
+gps setlongitude 23,559232
+pause 1
+gps setlatitude 41,090693
+gps setlongitude 23,55924
+pause 1
+gps setlatitude 41,090666
+gps setlongitude 23,55926
+pause 1
+gps setlatitude 41,090633
+gps setlongitude 23,559276
+pause 1
+gps setlatitude 41,090609
+gps setlongitude 23,5593
+pause 1
+gps setlatitude 41,090574
+gps setlongitude 23,559323
+pause 1
+gps setlatitude 41,090554
+gps setlongitude 23,559356
+pause 1
+gps setlatitude 41,090526
+gps setlongitude 23,559374
+pause 1
+gps setlatitude 41,090555
+gps setlongitude 23,559362
+pause 1
+gps setlatitude 41,090555
+gps setlongitude 23,559399
+pause 1
+gps setlatitude 41,090531
+gps setlongitude 23,559417
+pause 1
+gps setlatitude 41,090496
+gps setlongitude 23,559447
+pause 1
+gps setlatitude 41,09044
+gps setlongitude 23,559467
+pause 1
+gps setlatitude 41,09041
+gps setlongitude 23,559477
+pause 1
+gps setlatitude 41,090384
+gps setlongitude 23,559487
+pause 1
+gps setlatitude 41,090357
+gps setlongitude 23,559497
+pause 1
+gps setlatitude 41,090306
+gps setlongitude 23,559522
+pause 1
+gps setlatitude 41,090255
+gps setlongitude 23,559538
+pause 1
+gps setlatitude 41,090206
+gps setlongitude 23,559541
+pause 1
+gps setlatitude 41,090166
+gps setlongitude 23,559556
+pause 1
+gps setlatitude 41,09014
+gps setlongitude 23,559578
+pause 1
+gps setlatitude 41,090106
+gps setlongitude 23,559601
+pause 1
+gps setlatitude 41,090082
+gps setlongitude 23,559617
+pause 1
+gps setlatitude 41,090061
+gps setlongitude 23,559644
+pause 1
+gps setlatitude 41,090037
+gps setlongitude 23,559665
+pause 1
+gps setlatitude 41,090005
+gps setlongitude 23,559683
+pause 1
+gps setlatitude 41,089983
+gps setlongitude 23,559706
+pause 1
+gps setlatitude 41,089951
+gps setlongitude 23,559745
+pause 1
+gps setlatitude 41,089915
+gps setlongitude 23,559784
+pause 1
+gps setlatitude 41,089888
+gps setlongitude 23,559809
+pause 1
+gps setlatitude 41,089853
+gps setlongitude 23,559836
+pause 1
+gps setlatitude 41,08982
+gps setlongitude 23,559857
+pause 1
+gps setlatitude 41,089798
+gps setlongitude 23,559883
+pause 1
+gps setlatitude 41,089773
+gps setlongitude 23,559905
+pause 1
+gps setlatitude 41,089735
+gps setlongitude 23,559921
+pause 1
+gps setlatitude 41,089709
+gps setlongitude 23,559946
+pause 1
+gps setlatitude 41,089679
+gps setlongitude 23,559978
+pause 1
+gps setlatitude 41,089658
+gps setlongitude 23,560001
+pause 1
+gps setlatitude 41,089635
+gps setlongitude 23,560029
+pause 1
+gps setlatitude 41,089609
+gps setlongitude 23,560055
+pause 1
+gps setlatitude 41,089583
+gps setlongitude 23,560074
+pause 1
+gps setlatitude 41,089571
+gps setlongitude 23,560107
+pause 1
+gps setlatitude 41,089568
+gps setlongitude 23,560144
+pause 1
+gps setlatitude 41,089565
+gps setlongitude 23,56019
+pause 1
+gps setlatitude 41,089549
+gps setlongitude 23,560223
+pause 1
+gps setlatitude 41,08952
+gps setlongitude 23,560232
+pause 1
+gps setlatitude 41,089495
+gps setlongitude 23,560256
+pause 1
+gps setlatitude 41,089469
+gps setlongitude 23,56028
+pause 1
+gps setlatitude 41,08943
+gps setlongitude 23,560306
+pause 1
+gps setlatitude 41,089399
+gps setlongitude 23,560324
+pause 1
+gps setlatitude 41,08938
+gps setlongitude 23,560349
+pause 1
+gps setlatitude 41,089355
+gps setlongitude 23,560371
+pause 1
+gps setlatitude 41,089325
+gps setlongitude 23,560383
+pause 1
+gps setlatitude 41,089283
+gps setlongitude 23,560389
+pause 1
+gps setlatitude 41,089247
+gps setlongitude 23,560401
+pause 1
+gps setlatitude 41,089212
+gps setlongitude 23,560415
+pause 1
+gps setlatitude 41,089185
+gps setlongitude 23,560435
+pause 1
+gps setlatitude 41,089159
+gps setlongitude 23,560459
+pause 1
+gps setlatitude 41,089157
+gps setlongitude 23,560495
+pause 1
+gps setlatitude 41,08918
+gps setlongitude 23,560522
+pause 1
+gps setlatitude 41,089203
+gps setlongitude 23,560546
+pause 1
+gps setlatitude 41,089206
+gps setlongitude 23,560585
+pause 1
+gps setlatitude 41,089179
+gps setlongitude 23,560593
+pause 1
+gps setlatitude 41,089158
+gps setlongitude 23,560618
+pause 1
+gps setlatitude 41,089132
+gps setlongitude 23,560638
+pause 1
+gps setlatitude 41,089096
+gps setlongitude 23,560645
+pause 1
+gps setlatitude 41,089065
+gps setlongitude 23,560653
+pause 1
+gps setlatitude 41,089025
+gps setlongitude 23,560662
+pause 1
+gps setlatitude 41,088997
+gps setlongitude 23,560654
+pause 1
+gps setlatitude 41,088972
+gps setlongitude 23,560676
+pause 1
+gps setlatitude 41,088931
+gps setlongitude 23,560701
+pause 1
+gps setlatitude 41,088892
+gps setlongitude 23,560724
+pause 1
+gps setlatitude 41,088856
+gps setlongitude 23,560737
+pause 1
+gps setlatitude 41,088834
+gps setlongitude 23,560758
+pause 1
+gps setlatitude 41,088814
+gps setlongitude 23,560795
+pause 1
+gps setlatitude 41,08879
+gps setlongitude 23,560834
+pause 1
+gps setlatitude 41,088763
+gps setlongitude 23,560845
+pause 1
+gps setlatitude 41,088736
+gps setlongitude 23,560854
+pause 1
+gps setlatitude 41,088706
+gps setlongitude 23,560868
+pause 1
+gps setlatitude 41,088681
+gps setlongitude 23,560896
+pause 1
+gps setlatitude 41,088662
+gps setlongitude 23,560925
+pause 1
+gps setlatitude 41,088638
+gps setlongitude 23,560942
+pause 1
+gps setlatitude 41,088607
+gps setlongitude 23,560965
+pause 1
+gps setlatitude 41,088581
+gps setlongitude 23,560992
+pause 1
+gps setlatitude 41,088552
+gps setlongitude 23,561021
+pause 1
+gps setlatitude 41,088517
+gps setlongitude 23,561012
+pause 1
+gps setlatitude 41,088486
+gps setlongitude 23,561001
+pause 1
+gps setlatitude 41,088459
+gps setlongitude 23,560992
+pause 1
+gps setlatitude 41,08843
+gps setlongitude 23,560997
+pause 1
+gps setlatitude 41,0884
+gps setlongitude 23,561016
+pause 1
+gps setlatitude 41,088379
+gps setlongitude 23,56105
+pause 1
+gps setlatitude 41,088371
+gps setlongitude 23,561086
+pause 1
+gps setlatitude 41,088376
+gps setlongitude 23,561139
+pause 1
+gps setlatitude 41,088363
+gps setlongitude 23,561171
+pause 1
+gps setlatitude 41,088337
+gps setlongitude 23,561186
+pause 1
+gps setlatitude 41,088307
+gps setlongitude 23,561204
+pause 1
+gps setlatitude 41,088273
+gps setlongitude 23,561213
+pause 1
+gps setlatitude 41,088236
+gps setlongitude 23,56122
+pause 1
+gps setlatitude 41,088201
+gps setlongitude 23,56123
+pause 1
+gps setlatitude 41,088172
+gps setlongitude 23,561237
+pause 1
+gps setlatitude 41,088141
+gps setlongitude 23,561245
+pause 1
+gps setlatitude 41,088107
+gps setlongitude 23,561235
+pause 1
+gps setlatitude 41,088069
+gps setlongitude 23,561225
+pause 1
+gps setlatitude 41,088016
+gps setlongitude 23,561216
+pause 1
+gps setlatitude 41,08799
+gps setlongitude 23,561236
+pause 1
+gps setlatitude 41,087975
+gps setlongitude 23,561275
+pause 1
+gps setlatitude 41,087934
+gps setlongitude 23,561251
+pause 1
+gps setlatitude 41,087906
+gps setlongitude 23,561219
+pause 1
+gps setlatitude 41,087879
+gps setlongitude 23,561207
+pause 1
+gps setlatitude 41,087849
+gps setlongitude 23,561204
+pause 1
+gps setlatitude 41,087819
+gps setlongitude 23,561203
+pause 1
+gps setlatitude 41,087794
+gps setlongitude 23,561184
+pause 1
+gps setlatitude 41,087767
+gps setlongitude 23,56117
+pause 1
+gps setlatitude 41,087745
+gps setlongitude 23,561144
+pause 1
+gps setlatitude 41,087731
+gps setlongitude 23,561113
+pause 1
+gps setlatitude 41,087712
+gps setlongitude 23,561085
+pause 1
+gps setlatitude 41,087687
+gps setlongitude 23,561064
+pause 1
+gps setlatitude 41,087662
+gps setlongitude 23,561032
+pause 1
+gps setlatitude 41,087639
+gps setlongitude 23,561005
+pause 1
+gps setlatitude 41,087612
+gps setlongitude 23,560986
+pause 1
+gps setlatitude 41,087583
+gps setlongitude 23,560958
+pause 1
+gps setlatitude 41,087557
+gps setlongitude 23,560941
+pause 1
+gps setlatitude 41,08753
+gps setlongitude 23,56092
+pause 1
+gps setlatitude 41,08751
+gps setlongitude 23,56089
+pause 1
+gps setlatitude 41,087479
+gps setlongitude 23,560864
+pause 1
+gps setlatitude 41,087455
+gps setlongitude 23,560832
+pause 1
+gps setlatitude 41,087429
+gps setlongitude 23,560819
+pause 1
+gps setlatitude 41,087401
+gps setlongitude 23,560791
+pause 1
+gps setlatitude 41,087371
+gps setlongitude 23,56076
+pause 1
+gps setlatitude 41,087345
+gps setlongitude 23,560732
+pause 1
+gps setlatitude 41,087323
+gps setlongitude 23,5607
+pause 1
+gps setlatitude 41,087304
+gps setlongitude 23,560663
+pause 1
+gps setlatitude 41,087277
+gps setlongitude 23,560647
+pause 1
+gps setlatitude 41,087251
+gps setlongitude 23,560636
+pause 1
+gps setlatitude 41,087228
+gps setlongitude 23,560609
+pause 1
+gps setlatitude 41,087209
+gps setlongitude 23,560583
+pause 1
+gps setlatitude 41,087176
+gps setlongitude 23,560566
+pause 1
+gps setlatitude 41,087153
+gps setlongitude 23,560545
+pause 1
+gps setlatitude 41,087119
+gps setlongitude 23,560518
+pause 1
+gps setlatitude 41,087093
+gps setlongitude 23,560487
+pause 1
+gps setlatitude 41,087063
+gps setlongitude 23,560468
+pause 1
+gps setlatitude 41,087033
+gps setlongitude 23,560461
+pause 1
+gps setlatitude 41,086994
+gps setlongitude 23,560442
+pause 1
+gps setlatitude 41,086953
+gps setlongitude 23,560419
+pause 1
+gps setlatitude 41,086927
+gps setlongitude 23,560379
+pause 1
+gps setlatitude 41,086906
+gps setlongitude 23,560356
+pause 1
+gps setlatitude 41,086883
+gps setlongitude 23,560336
+pause 1
+gps setlatitude 41,086864
+gps setlongitude 23,56031
+pause 1
+gps setlatitude 41,086839
+gps setlongitude 23,560283
+pause 1
+gps setlatitude 41,086815
+gps setlongitude 23,560258
+pause 1
+gps setlatitude 41,086785
+gps setlongitude 23,560238
+pause 1
+gps setlatitude 41,086764
+gps setlongitude 23,560194
+pause 1
+gps setlatitude 41,086742
+gps setlongitude 23,560154
+pause 1
+gps setlatitude 41,086707
+gps setlongitude 23,560149
+pause 1
+gps setlatitude 41,086675
+gps setlongitude 23,560141
+pause 1
+gps setlatitude 41,086646
+gps setlongitude 23,560126
+pause 1
+gps setlatitude 41,086619
+gps setlongitude 23,5601
+pause 1
+gps setlatitude 41,086591
+gps setlongitude 23,560078
+pause 1
+gps setlatitude 41,086558
+gps setlongitude 23,560064
+pause 1
+gps setlatitude 41,086532
+gps setlongitude 23,560041
+pause 1
+gps setlatitude 41,086504
+gps setlongitude 23,560004
+pause 1
+gps setlatitude 41,08647
+gps setlongitude 23,559987
+pause 1
+gps setlatitude 41,086441
+gps setlongitude 23,559967
+pause 1
+gps setlatitude 41,08641
+gps setlongitude 23,559944
+pause 1
+gps setlatitude 41,086389
+gps setlongitude 23,55992
+pause 1
+gps setlatitude 41,086359
+gps setlongitude 23,559904
+pause 1
+gps setlatitude 41,086334
+gps setlongitude 23,559878
+pause 1
+gps setlatitude 41,086314
+gps setlongitude 23,559849
+pause 1
+gps setlatitude 41,086283
+gps setlongitude 23,559828
+pause 1
+gps setlatitude 41,086257
+gps setlongitude 23,559815
+pause 1
+gps setlatitude 41,086227
+gps setlongitude 23,559795
+pause 1
+gps setlatitude 41,086197
+gps setlongitude 23,559779
+pause 1
+gps setlatitude 41,086169
+gps setlongitude 23,55975
+pause 1
+gps setlatitude 41,086141
+gps setlongitude 23,55972
+pause 1
+gps setlatitude 41,086117
+gps setlongitude 23,5597
+pause 1
+gps setlatitude 41,086094
+gps setlongitude 23,559677
+pause 1
+gps setlatitude 41,08607
+gps setlongitude 23,559646
+pause 1
+gps setlatitude 41,086041
+gps setlongitude 23,559617
+pause 1
+gps setlatitude 41,086013
+gps setlongitude 23,559589
+pause 1
+gps setlatitude 41,085994
+gps setlongitude 23,559554
+pause 1
+gps setlatitude 41,085967
+gps setlongitude 23,559526
+pause 1
+gps setlatitude 41,085942
+gps setlongitude 23,559503
+pause 1
+gps setlatitude 41,085924
+gps setlongitude 23,559458
+pause 1
+gps setlatitude 41,085894
+gps setlongitude 23,559448
+pause 1
+gps setlatitude 41,085871
+gps setlongitude 23,559424
+pause 1
+gps setlatitude 41,085845
+gps setlongitude 23,559401
+pause 1
+gps setlatitude 41,085811
+gps setlongitude 23,559373
+pause 1
+gps setlatitude 41,085778
+gps setlongitude 23,559354
+pause 1
+gps setlatitude 41,085742
+gps setlongitude 23,559324
+pause 1
+gps setlatitude 41,085687
+gps setlongitude 23,559276
+pause 1
+gps setlatitude 41,085656
+gps setlongitude 23,559255
+pause 1
+gps setlatitude 41,085625
+gps setlongitude 23,559239
+pause 1
+gps setlatitude 41,085589
+gps setlongitude 23,559225
+pause 1
+gps setlatitude 41,085558
+gps setlongitude 23,559205
+pause 1
+gps setlatitude 41,085529
+gps setlongitude 23,559177
+pause 1
+gps setlatitude 41,085502
+gps setlongitude 23,559143
+pause 1
+gps setlatitude 41,085475
+gps setlongitude 23,559122
+pause 1
+gps setlatitude 41,085446
+gps setlongitude 23,559097
+pause 1
+gps setlatitude 41,085425
+gps setlongitude 23,559062
+pause 1
+gps setlatitude 41,085401
+gps setlongitude 23,559034
+pause 1
+gps setlatitude 41,085366
+gps setlongitude 23,559004
+pause 1
+gps setlatitude 41,085349
+gps setlongitude 23,558968
+pause 1
+gps setlatitude 41,085332
+gps setlongitude 23,558929
+pause 1
+gps setlatitude 41,085312
+gps setlongitude 23,558904
+pause 1
+gps setlatitude 41,085277
+gps setlongitude 23,558889
+pause 1
+gps setlatitude 41,085242
+gps setlongitude 23,558878
+pause 1
+gps setlatitude 41,085212
+gps setlongitude 23,558858
+pause 1
+gps setlatitude 41,085184
+gps setlongitude 23,558841
+pause 1
+gps setlatitude 41,085153
+gps setlongitude 23,558812
+pause 1
+gps setlatitude 41,085126
+gps setlongitude 23,558786
+pause 1
+gps setlatitude 41,085094
+gps setlongitude 23,55876
+pause 1
+gps setlatitude 41,085065
+gps setlongitude 23,558737
+pause 1
+gps setlatitude 41,085045
+gps setlongitude 23,558713
+pause 1
+gps setlatitude 41,085021
+gps setlongitude 23,558691
+pause 1
+gps setlatitude 41,084995
+gps setlongitude 23,558677
+pause 1
+gps setlatitude 41,084968
+gps setlongitude 23,558659
+pause 1
+gps setlatitude 41,084937
+gps setlongitude 23,558643
+pause 1
+gps setlatitude 41,084906
+gps setlongitude 23,558621
+pause 1
+gps setlatitude 41,084874
+gps setlongitude 23,558612
+pause 1
+gps setlatitude 41,084842
+gps setlongitude 23,558596
+pause 1
+gps setlatitude 41,084816
+gps setlongitude 23,558581
+pause 1
+gps setlatitude 41,084788
+gps setlongitude 23,558567
+pause 1
+gps setlatitude 41,084758
+gps setlongitude 23,558552
+pause 1
+gps setlatitude 41,084731
+gps setlongitude 23,558534
+pause 1
+gps setlatitude 41,084705
+gps setlongitude 23,55852
+pause 1
+gps setlatitude 41,08468
+gps setlongitude 23,558504
+pause 1
+gps setlatitude 41,084643
+gps setlongitude 23,558491
+pause 1
+gps setlatitude 41,084611
+gps setlongitude 23,55847
+pause 1
+gps setlatitude 41,084586
+gps setlongitude 23,558452
+pause 1
+gps setlatitude 41,084547
+gps setlongitude 23,558413
+pause 1
+gps setlatitude 41,084521
+gps setlongitude 23,558395
+pause 1
+gps setlatitude 41,084483
+gps setlongitude 23,558371
+pause 1
+gps setlatitude 41,084453
+gps setlongitude 23,558362
+pause 1
+gps setlatitude 41,084424
+gps setlongitude 23,558355
+pause 1
+gps setlatitude 41,084403
+gps setlongitude 23,55833
+pause 1
+gps setlatitude 41,084395
+gps setlongitude 23,558296
+pause 1
+gps setlatitude 41,084374
+gps setlongitude 23,558262
+pause 1
+gps setlatitude 41,084368
+gps setlongitude 23,558225
+pause 1
+gps setlatitude 41,084332
+gps setlongitude 23,558186
+pause 1
+gps setlatitude 41,084296
+gps setlongitude 23,558175
+pause 1
+gps setlatitude 41,084261
+gps setlongitude 23,558155
+pause 1
+gps setlatitude 41,084229
+gps setlongitude 23,558127
+pause 1
+gps setlatitude 41,084186
+gps setlongitude 23,558091
+pause 1
+gps setlatitude 41,084147
+gps setlongitude 23,558057
+pause 1
+gps setlatitude 41,084108
+gps setlongitude 23,558029
+pause 1
+gps setlatitude 41,084065
+gps setlongitude 23,557997
+pause 1
+gps setlatitude 41,084027
+gps setlongitude 23,557968
+pause 1
+gps setlatitude 41,083992
+gps setlongitude 23,557932
+pause 1
+gps setlatitude 41,083956
+gps setlongitude 23,557896
+pause 1
+gps setlatitude 41,083924
+gps setlongitude 23,557872
+pause 1
+gps setlatitude 41,083897
+gps setlongitude 23,557848
+pause 1
+gps setlatitude 41,083871
+gps setlongitude 23,55783
+pause 1
+gps setlatitude 41,083842
+gps setlongitude 23,557808
+pause 1
+gps setlatitude 41,083815
+gps setlongitude 23,557797
+pause 1
+gps setlatitude 41,083788
+gps setlongitude 23,557794
+pause 1
+gps setlatitude 41,083761
+gps setlongitude 23,557798
+pause 1
+gps setlatitude 41,083744
+gps setlongitude 23,557764
+pause 1
+gps setlatitude 41,083712
+gps setlongitude 23,557741
+pause 1
+gps setlatitude 41,083725
+gps setlongitude 23,557708
+pause 1
+gps setlatitude 41,083691
+gps setlongitude 23,557674
+pause 1
+gps setlatitude 41,083659
+gps setlongitude 23,557641
+pause 1
+gps setlatitude 41,083631
+gps setlongitude 23,557603
+pause 1
+gps setlatitude 41,083606
+gps setlongitude 23,557571
+pause 1
+gps setlatitude 41,083582
+gps setlongitude 23,557543
+pause 1
+gps setlatitude 41,083554
+gps setlongitude 23,557521
+pause 1
+gps setlatitude 41,083522
+gps setlongitude 23,557503
+pause 1
+gps setlatitude 41,08349
+gps setlongitude 23,557484
+pause 1
+gps setlatitude 41,083461
+gps setlongitude 23,557465
+pause 1
+gps setlatitude 41,083431
+gps setlongitude 23,557438
+pause 1
+gps setlatitude 41,083402
+gps setlongitude 23,557418
+pause 1
+gps setlatitude 41,083374
+gps setlongitude 23,557389
+pause 1
+gps setlatitude 41,083348
+gps setlongitude 23,55736
+pause 1
+gps setlatitude 41,083321
+gps setlongitude 23,557331
+pause 1
+gps setlatitude 41,083292
+gps setlongitude 23,557305
+pause 1
+gps setlatitude 41,083267
+gps setlongitude 23,557273
+pause 1
+gps setlatitude 41,083236
+gps setlongitude 23,55725
+pause 1
+gps setlatitude 41,083206
+gps setlongitude 23,55723
+pause 1
+gps setlatitude 41,083175
+gps setlongitude 23,55721
+pause 1
+gps setlatitude 41,083142
+gps setlongitude 23,557192
+pause 1
+gps setlatitude 41,083113
+gps setlongitude 23,557174
+pause 1
+gps setlatitude 41,083089
+gps setlongitude 23,557149
+pause 1
+gps setlatitude 41,083065
+gps setlongitude 23,557123
+pause 1
+gps setlatitude 41,083037
+gps setlongitude 23,557095
+pause 1
+gps setlatitude 41,083018
+gps setlongitude 23,557069
+pause 1
+gps setlatitude 41,082996
+gps setlongitude 23,557048
+pause 1
+gps setlatitude 41,082976
+gps setlongitude 23,557019
+pause 1
+gps setlatitude 41,082952
+gps setlongitude 23,557005
+pause 1
+gps setlatitude 41,082926
+gps setlongitude 23,556975
+pause 1
+gps setlatitude 41,082904
+gps setlongitude 23,556944
+pause 1
+gps setlatitude 41,082886
+gps setlongitude 23,556914
+pause 1
+gps setlatitude 41,082861
+gps setlongitude 23,556893
+pause 1
+gps setlatitude 41,082838
+gps setlongitude 23,556864
+pause 1
+gps setlatitude 41,082815
+gps setlongitude 23,556833
+pause 1
+gps setlatitude 41,082786
+gps setlongitude 23,556807
+pause 1
+gps setlatitude 41,082761
+gps setlongitude 23,556779
+pause 1
+gps setlatitude 41,082742
+gps setlongitude 23,556752
+pause 1
+gps setlatitude 41,082714
+gps setlongitude 23,556731
+pause 1
+gps setlatitude 41,082689
+gps setlongitude 23,556707
+pause 1
+gps setlatitude 41,082662
+gps setlongitude 23,556683
+pause 1
+gps setlatitude 41,082636
+gps setlongitude 23,55666
+pause 1
+gps setlatitude 41,082612
+gps setlongitude 23,556633
+pause 1
+gps setlatitude 41,082582
+gps setlongitude 23,556612
+pause 1
+gps setlatitude 41,082556
+gps setlongitude 23,556588
+pause 1
+gps setlatitude 41,082532
+gps setlongitude 23,556561
+pause 1
+gps setlatitude 41,082512
+gps setlongitude 23,556535
+pause 1
+gps setlatitude 41,082488
+gps setlongitude 23,556515
+pause 1
+gps setlatitude 41,082463
+gps setlongitude 23,556486
+pause 1
+gps setlatitude 41,082445
+gps setlongitude 23,556456
+pause 1
+gps setlatitude 41,082426
+gps setlongitude 23,556411
+pause 1
+gps setlatitude 41,082408
+gps setlongitude 23,556379
+pause 1
+gps setlatitude 41,082384
+gps setlongitude 23,556355
+pause 1
+gps setlatitude 41,082362
+gps setlongitude 23,556327
+pause 1
+gps setlatitude 41,082339
+gps setlongitude 23,556295
+pause 1
+gps setlatitude 41,082318
+gps setlongitude 23,556263
+pause 1
+gps setlatitude 41,082306
+gps setlongitude 23,556226
+pause 1
+gps setlatitude 41,082282
+gps setlongitude 23,556195
+pause 1
+gps setlatitude 41,082251
+gps setlongitude 23,556166
+pause 1
+gps setlatitude 41,082229
+gps setlongitude 23,556135
+pause 1
+gps setlatitude 41,082208
+gps setlongitude 23,556104
+pause 1
+gps setlatitude 41,0822
+gps setlongitude 23,556066
+pause 1
+gps setlatitude 41,082175
+gps setlongitude 23,556034
+pause 1
+gps setlatitude 41,082147
+gps setlongitude 23,556005
+pause 1
+gps setlatitude 41,082122
+gps setlongitude 23,555971
+pause 1
+gps setlatitude 41,082104
+gps setlongitude 23,555942
+pause 1
+gps setlatitude 41,08208
+gps setlongitude 23,555909
+pause 1
+gps setlatitude 41,082063
+gps setlongitude 23,555875
+pause 1
+gps setlatitude 41,082042
+gps setlongitude 23,555852
+pause 1
+gps setlatitude 41,082023
+gps setlongitude 23,555816
+pause 1
+gps setlatitude 41,082012
+gps setlongitude 23,555778
+pause 1
+gps setlatitude 41,081986
+gps setlongitude 23,555731
+pause 1
+gps setlatitude 41,081966
+gps setlongitude 23,555705
+pause 1
+gps setlatitude 41,081937
+gps setlongitude 23,555666
+pause 1
+gps setlatitude 41,081919
+gps setlongitude 23,55562
+pause 1
+gps setlatitude 41,081916
+gps setlongitude 23,555571
+pause 1
+gps setlatitude 41,081917
+gps setlongitude 23,555532
+pause 1
+gps setlatitude 41,081911
+gps setlongitude 23,555496
+pause 1
+gps setlatitude 41,081882
+gps setlongitude 23,555455
+pause 1
+gps setlatitude 41,081864
+gps setlongitude 23,555419
+pause 1
+gps setlatitude 41,081845
+gps setlongitude 23,555386
+pause 1
+gps setlatitude 41,081837
+gps setlongitude 23,555347
+pause 1
+gps setlatitude 41,081487
+gps setlongitude 23,554589
+pause 1
+gps setlatitude 41,081472
+gps setlongitude 23,554546
+pause 1
+gps setlatitude 41,081452
+gps setlongitude 23,554501
+pause 1
+gps setlatitude 41,081431
+gps setlongitude 23,554455
+pause 1
+gps setlatitude 41,081415
+gps setlongitude 23,554422
+pause 1
+gps setlatitude 41,081398
+gps setlongitude 23,554387
+pause 1
+gps setlatitude 41,081375
+gps setlongitude 23,554293
+pause 1
+gps setlatitude 41,081366
+gps setlongitude 23,554246
+pause 1
+gps setlatitude 41,081249
+gps setlongitude 23,55395
+pause 1
+gps setlatitude 41,080713
+gps setlongitude 23,553363
+pause 1
+gps setlatitude 41,080689
+gps setlongitude 23,553343
+pause 1
+gps setlatitude 41,08069
+gps setlongitude 23,553297
+pause 1
+gps setlatitude 41,080687
+gps setlongitude 23,553214
+pause 1
+gps setlatitude 41,080747
+gps setlongitude 23,553323
+pause 1
+gps setlatitude 41,080782
+gps setlongitude 23,553312
+pause 1
+gps setlatitude 41,0808
+gps setlongitude 23,553284
+pause 1
+gps setlatitude 41,080823
+gps setlongitude 23,553249
+pause 1
+gps setlatitude 41,080826
+gps setlongitude 23,553207
+pause 1
+gps setlatitude 41,080802
+gps setlongitude 23,553167
+pause 1
+gps setlatitude 41,080783
+gps setlongitude 23,553126
+pause 1
+gps setlatitude 41,080763
+gps setlongitude 23,553095
+pause 1
+gps setlatitude 41,080747
+gps setlongitude 23,553051
+pause 1
+gps setlatitude 41,080729
+gps setlongitude 23,553008
+pause 1
+gps setlatitude 41,08071
+gps setlongitude 23,55298
+pause 1
+gps setlatitude 41,08068
+gps setlongitude 23,552983
+pause 1
+gps setlatitude 41,080655
+gps setlongitude 23,552947
+pause 1
+gps setlatitude 41,080638
+gps setlongitude 23,552909
+pause 1
+gps setlatitude 41,080624
+gps setlongitude 23,552868
+pause 1
+gps setlatitude 41,080621
+gps setlongitude 23,552831
+pause 1
+gps setlatitude 41,080609
+gps setlongitude 23,552797
+pause 1
+gps setlatitude 41,080599
+gps setlongitude 23,552761
+pause 1
+gps setlatitude 41,080583
+gps setlongitude 23,552727
+pause 1
+gps setlatitude 41,080568
+gps setlongitude 23,552695
+pause 1
+gps setlatitude 41,080552
+gps setlongitude 23,552649
+pause 1
+gps setlatitude 41,08054
+gps setlongitude 23,552607
+pause 1
+gps setlatitude 41,080525
+gps setlongitude 23,552577
+pause 1
+gps setlatitude 41,080524
+gps setlongitude 23,552538
+pause 1
+gps setlatitude 41,080511
+gps setlongitude 23,552506
+pause 1
+gps setlatitude 41,080505
+gps setlongitude 23,552461
+pause 1
+gps setlatitude 41,080493
+gps setlongitude 23,552411
+pause 1
+gps setlatitude 41,08048
+gps setlongitude 23,552377
+pause 1
+gps setlatitude 41,080467
+gps setlongitude 23,552343
+pause 1
+gps setlatitude 41,080458
+gps setlongitude 23,552308
+pause 1
+gps setlatitude 41,080448
+gps setlongitude 23,552273
+pause 1
+gps setlatitude 41,080437
+gps setlongitude 23,552222
+pause 1
+gps setlatitude 41,080431
+gps setlongitude 23,552187
+pause 1
+gps setlatitude 41,080422
+gps setlongitude 23,552148
+pause 1
+gps setlatitude 41,080411
+gps setlongitude 23,55211
+pause 1
+gps setlatitude 41,080407
+gps setlongitude 23,55207
+pause 1
+gps setlatitude 41,080407
+gps setlongitude 23,55203
+pause 1
+gps setlatitude 41,0804
+gps setlongitude 23,551989
+pause 1
+gps setlatitude 41,080396
+gps setlongitude 23,551949
+pause 1
+gps setlatitude 41,080391
+gps setlongitude 23,55191
+pause 1
+gps setlatitude 41,080383
+gps setlongitude 23,551873
+pause 1
+gps setlatitude 41,080373
+gps setlongitude 23,551823
+pause 1
+gps setlatitude 41,080369
+gps setlongitude 23,551776
+pause 1
+gps setlatitude 41,080364
+gps setlongitude 23,55173
+pause 1
+gps setlatitude 41,080359
+gps setlongitude 23,551687
+pause 1
+gps setlatitude 41,08037
+gps setlongitude 23,551651
+pause 1
+gps setlatitude 41,080369
+gps setlongitude 23,551609
+pause 1
+gps setlatitude 41,080366
+gps setlongitude 23,55157
+pause 1
+gps setlatitude 41,080353
+gps setlongitude 23,551527
+pause 1
+gps setlatitude 41,080343
+gps setlongitude 23,551483
+pause 1
+gps setlatitude 41,08034
+gps setlongitude 23,551442
+pause 1
+gps setlatitude 41,080336
+gps setlongitude 23,551399
+pause 1
+gps setlatitude 41,080333
+gps setlongitude 23,551358
+pause 1
+gps setlatitude 41,080331
+gps setlongitude 23,551317
+pause 1
+gps setlatitude 41,080334
+gps setlongitude 23,551274
+pause 1
+gps setlatitude 41,080336
+gps setlongitude 23,55123
+pause 1
+gps setlatitude 41,080355
+gps setlongitude 23,551192
+pause 1
+gps setlatitude 41,080367
+gps setlongitude 23,55114
+pause 1
+gps setlatitude 41,080371
+gps setlongitude 23,551101
+pause 1
+gps setlatitude 41,080375
+gps setlongitude 23,551062
+pause 1
+gps setlatitude 41,080383
+gps setlongitude 23,551025
+pause 1
+gps setlatitude 41,080386
+gps setlongitude 23,550981
+pause 1
+gps setlatitude 41,080384
+gps setlongitude 23,55094
+pause 1
+gps setlatitude 41,080369
+gps setlongitude 23,550903
+pause 1
+gps setlatitude 41,080355
+gps setlongitude 23,550867
+pause 1
+gps setlatitude 41,080341
+gps setlongitude 23,550823
+pause 1
+gps setlatitude 41,080337
+gps setlongitude 23,550779
+pause 1
+gps setlatitude 41,08034
+gps setlongitude 23,550737
+pause 1
+gps setlatitude 41,080342
+gps setlongitude 23,550699
+pause 1
+gps setlatitude 41,08034
+gps setlongitude 23,550654
+pause 1
+gps setlatitude 41,080331
+gps setlongitude 23,550611
+pause 1
+gps setlatitude 41,080328
+gps setlongitude 23,550568
+pause 1
+gps setlatitude 41,080348
+gps setlongitude 23,550522
+pause 1
+gps setlatitude 41,080366
+gps setlongitude 23,550493
+pause 1
+gps setlatitude 41,080392
+gps setlongitude 23,550452
+pause 1
+gps setlatitude 41,080414
+gps setlongitude 23,550416
+pause 1
+gps setlatitude 41,080416
+gps setlongitude 23,550367
+pause 1
+gps setlatitude 41,080401
+gps setlongitude 23,550334
+pause 1
+gps setlatitude 41,080383
+gps setlongitude 23,550293
+pause 1
+gps setlatitude 41,08035
+gps setlongitude 23,550258
+pause 1
+gps setlatitude 41,080326
+gps setlongitude 23,550218
+pause 1
+gps setlatitude 41,080313
+gps setlongitude 23,550186
+pause 1
+gps setlatitude 41,080299
+gps setlongitude 23,55015
+pause 1
+gps setlatitude 41,080272
+gps setlongitude 23,550151
+pause 1
+gps setlatitude 41,080247
+gps setlongitude 23,550132
+pause 1
+gps setlatitude 41,080246
+gps setlongitude 23,550084
+pause 1
+gps setlatitude 41,080244
+gps setlongitude 23,550047
+pause 1
+gps setlatitude 41,080247
+gps setlongitude 23,550007
+pause 1
+gps setlatitude 41,08024
+gps setlongitude 23,549972
+pause 1
+gps setlatitude 41,080233
+gps setlongitude 23,549936
+pause 1
+gps setlatitude 41,080224
+gps setlongitude 23,549897
+pause 1
+gps setlatitude 41,080211
+gps setlongitude 23,549858
+pause 1
+gps setlatitude 41,080203
+gps setlongitude 23,549813
+pause 1
+gps setlatitude 41,08021
+gps setlongitude 23,549765
+pause 1
+gps setlatitude 41,080207
+gps setlongitude 23,549724
+pause 1
+gps setlatitude 41,080209
+gps setlongitude 23,549684
+pause 1
+gps setlatitude 41,080213
+gps setlongitude 23,54964
+pause 1
+gps setlatitude 41,080219
+gps setlongitude 23,549594
+pause 1
+gps setlatitude 41,08023
+gps setlongitude 23,549552
+pause 1
+gps setlatitude 41,08025
+gps setlongitude 23,549514
+pause 1
+gps setlatitude 41,080264
+gps setlongitude 23,549469
+pause 1
+gps setlatitude 41,080266
+gps setlongitude 23,549426
+pause 1
+gps setlatitude 41,080261
+gps setlongitude 23,549379
+pause 1
+gps setlatitude 41,080264
+gps setlongitude 23,549334
+pause 1
+gps setlatitude 41,080269
+gps setlongitude 23,549289
+pause 1
+gps setlatitude 41,080271
+gps setlongitude 23,549244
+pause 1
+gps setlatitude 41,080274
+gps setlongitude 23,549208
+pause 1
+gps setlatitude 41,080278
+gps setlongitude 23,549171
+pause 1
+gps setlatitude 41,08028
+gps setlongitude 23,549134
+pause 1
+gps setlatitude 41,080278
+gps setlongitude 23,549088
+pause 1
+gps setlatitude 41,080285
+gps setlongitude 23,549042
+pause 1
+gps setlatitude 41,080288
+gps setlongitude 23,549005
+pause 1
+gps setlatitude 41,08029
+gps setlongitude 23,548959
+pause 1
+gps setlatitude 41,080296
+gps setlongitude 23,548914
+pause 1
+gps setlatitude 41,0803
+gps setlongitude 23,548871
+pause 1
+gps setlatitude 41,080299
+gps setlongitude 23,548823
+pause 1
+gps setlatitude 41,080304
+gps setlongitude 23,548781
+pause 1
+gps setlatitude 41,080315
+gps setlongitude 23,54874
+pause 1
+gps setlatitude 41,080331
+gps setlongitude 23,548701
+pause 1
+gps setlatitude 41,080338
+gps setlongitude 23,548656
+pause 1
+gps setlatitude 41,080326
+gps setlongitude 23,54862
+pause 1
+gps setlatitude 41,080317
+gps setlongitude 23,548579
+pause 1
+gps setlatitude 41,080326
+gps setlongitude 23,548527
+pause 1
+gps setlatitude 41,080335
+gps setlongitude 23,548491
+pause 1
+gps setlatitude 41,080344
+gps setlongitude 23,548457
+pause 1
+gps setlatitude 41,080354
+gps setlongitude 23,548408
+pause 1
+gps setlatitude 41,080356
+gps setlongitude 23,548359
+pause 1
+gps setlatitude 41,080359
+gps setlongitude 23,548308
+pause 1
+gps setlatitude 41,08036
+gps setlongitude 23,548251
+pause 1
+gps setlatitude 41,080364
+gps setlongitude 23,54821
+pause 1
+gps setlatitude 41,080373
+gps setlongitude 23,54817
+pause 1
+gps setlatitude 41,080373
+gps setlongitude 23,548126
+pause 1
+gps setlatitude 41,080386
+gps setlongitude 23,548089
+pause 1
+gps setlatitude 41,080395
+gps setlongitude 23,548042
+pause 1
+gps setlatitude 41,080407
+gps setlongitude 23,547994
+pause 1
+gps setlatitude 41,08042
+gps setlongitude 23,547949
+pause 1
+gps setlatitude 41,080432
+gps setlongitude 23,547906
+pause 1
+gps setlatitude 41,080441
+gps setlongitude 23,547866
+pause 1
+gps setlatitude 41,080453
+gps setlongitude 23,54783
+pause 1
+gps setlatitude 41,080469
+gps setlongitude 23,547794
+pause 1
+gps setlatitude 41,080476
+gps setlongitude 23,547756
+pause 1
+gps setlatitude 41,080483
+gps setlongitude 23,547715
+pause 1
+gps setlatitude 41,080512
+gps setlongitude 23,547636
+pause 1
+gps setlatitude 41,080535
+gps setlongitude 23,547595
+pause 1
+gps setlatitude 41,080553
+gps setlongitude 23,547548
+pause 1
+gps setlatitude 41,080569
+gps setlongitude 23,547516
+pause 1
+gps setlatitude 41,08058
+gps setlongitude 23,54748
+pause 1
+gps setlatitude 41,080583
+gps setlongitude 23,54744
+pause 1
+gps setlatitude 41,080593
+gps setlongitude 23,547405
+pause 1
+gps setlatitude 41,080599
+gps setlongitude 23,547356
+pause 1
+gps setlatitude 41,080609
+gps setlongitude 23,547317
+pause 1
+gps setlatitude 41,080608
+gps setlongitude 23,547278
+pause 1
+gps setlatitude 41,080609
+gps setlongitude 23,547239
+pause 1
+gps setlatitude 41,080606
+gps setlongitude 23,547189
+pause 1
+gps setlatitude 41,0806
+gps setlongitude 23,547143
+pause 1
+gps setlatitude 41,08062
+gps setlongitude 23,547096
+pause 1
+gps setlatitude 41,080647
+gps setlongitude 23,547064
+pause 1
+gps setlatitude 41,080676
+gps setlongitude 23,547042
+pause 1
+gps setlatitude 41,080712
+gps setlongitude 23,54702
+pause 1
+gps setlatitude 41,080744
+gps setlongitude 23,547008
+pause 1
+gps setlatitude 41,080773
+gps setlongitude 23,546993
+pause 1
+gps setlatitude 41,080805
+gps setlongitude 23,546969
+pause 1
+gps setlatitude 41,080834
+gps setlongitude 23,546947
+pause 1
+gps setlatitude 41,080868
+gps setlongitude 23,546931
+pause 1
+gps setlatitude 41,080903
+gps setlongitude 23,546909
+pause 1
+gps setlatitude 41,080931
+gps setlongitude 23,546902
+pause 1
+gps setlatitude 41,080959
+gps setlongitude 23,546906
+pause 1
+gps setlatitude 41,080995
+gps setlongitude 23,546899
+pause 1
+gps setlatitude 41,081023
+gps setlongitude 23,546903
+pause 1
+gps setlatitude 41,081055
+gps setlongitude 23,546906
+pause 1
+gps setlatitude 41,081087
+gps setlongitude 23,546907
+pause 1
+gps setlatitude 41,08112
+gps setlongitude 23,546905
+pause 1
+gps setlatitude 41,081148
+gps setlongitude 23,5469
+pause 1
+gps setlatitude 41,081182
+gps setlongitude 23,546896
+pause 1
+gps setlatitude 41,081215
+gps setlongitude 23,546903
+pause 1
+gps setlatitude 41,08125
+gps setlongitude 23,54692
+pause 1
+gps setlatitude 41,081285
+gps setlongitude 23,546905
+pause 1
+gps setlatitude 41,081316
+gps setlongitude 23,546879
+pause 1
+gps setlatitude 41,081345
+gps setlongitude 23,546858
+pause 1
+gps setlatitude 41,081378
+gps setlongitude 23,546841
+pause 1
+gps setlatitude 41,081408
+gps setlongitude 23,546844
+pause 1
+gps setlatitude 41,081439
+gps setlongitude 23,546844
+pause 1
+gps setlatitude 41,081466
+gps setlongitude 23,546824
+pause 1
+gps setlatitude 41,081499
+gps setlongitude 23,546804
+pause 1
+gps setlatitude 41,081525
+gps setlongitude 23,546784
+pause 1
+gps setlatitude 41,081551
+gps setlongitude 23,546742
+pause 1
+gps setlatitude 41,081577
+gps setlongitude 23,546705
+pause 1
+gps setlatitude 41,081604
+gps setlongitude 23,54666
+pause 1
+gps setlatitude 41,081624
+gps setlongitude 23,546628
+pause 1
+gps setlatitude 41,081626
+gps setlongitude 23,546665
+pause 1
+gps setlatitude 41,081625
+gps setlongitude 23,54671
+pause 1
+gps setlatitude 41,081621
+gps setlongitude 23,546754
+pause 1
+gps setlatitude 41,081626
+gps setlongitude 23,5468
+pause 1
+gps setlatitude 41,081643
+gps setlongitude 23,546839
+pause 1
+gps setlatitude 41,081673
+gps setlongitude 23,546859
+pause 1
+gps setlatitude 41,081699
+gps setlongitude 23,546884
+pause 1
+gps setlatitude 41,081711
+gps setlongitude 23,546916
+pause 1
+gps setlatitude 41,081747
+gps setlongitude 23,546936
+pause 1
+gps setlatitude 41,081783
+gps setlongitude 23,546949
+pause 1
+gps setlatitude 41,081806
+gps setlongitude 23,546977
+pause 1
+gps setlatitude 41,081829
+gps setlongitude 23,547004
+pause 1
+gps setlatitude 41,081858
+gps setlongitude 23,547025
+pause 1
+gps setlatitude 41,081886
+gps setlongitude 23,54704
+pause 1
+gps setlatitude 41,081912
+gps setlongitude 23,547049
+pause 1
+gps setlatitude 41,081946
+gps setlongitude 23,547065
+pause 1
+gps setlatitude 41,081973
+gps setlongitude 23,547078
+pause 1
+gps setlatitude 41,082001
+gps setlongitude 23,547083
+pause 1
+gps setlatitude 41,082034
+gps setlongitude 23,547089
+pause 1
+gps setlatitude 41,082063
+gps setlongitude 23,547099
+pause 1
+gps setlatitude 41,082095
+gps setlongitude 23,547107
+pause 1
+gps setlatitude 41,082125
+gps setlongitude 23,547118
+pause 1
+gps setlatitude 41,082153
+gps setlongitude 23,547135
+pause 1
+gps setlatitude 41,08218
+gps setlongitude 23,547141
+pause 1
+gps setlatitude 41,082209
+gps setlongitude 23,547148
+pause 1
+gps setlatitude 41,082235
+gps setlongitude 23,547163
+pause 1
+gps setlatitude 41,082263
+gps setlongitude 23,547176
+pause 1
+gps setlatitude 41,082289
+gps setlongitude 23,547197
+pause 1
+gps setlatitude 41,082319
+gps setlongitude 23,547229
+pause 1
+gps setlatitude 41,082347
+gps setlongitude 23,547244
+pause 1
+gps setlatitude 41,082375
+gps setlongitude 23,547263
+pause 1
+gps setlatitude 41,082402
+gps setlongitude 23,547287
+pause 1
+gps setlatitude 41,082436
+gps setlongitude 23,547305
+pause 1
+gps setlatitude 41,082475
+gps setlongitude 23,547296
+pause 1
+gps setlatitude 41,082508
+gps setlongitude 23,547307
+pause 1
+gps setlatitude 41,082537
+gps setlongitude 23,547316
+pause 1
+gps setlatitude 41,082564
+gps setlongitude 23,54735
+pause 1
+gps setlatitude 41,08259
+gps setlongitude 23,547364
+pause 1
+gps setlatitude 41,082616
+gps setlongitude 23,547392
+pause 1
+gps setlatitude 41,082639
+gps setlongitude 23,547422
+pause 1
+gps setlatitude 41,082658
+gps setlongitude 23,547455
+pause 1
+gps setlatitude 41,082682
+gps setlongitude 23,547476
+pause 1
+gps setlatitude 41,082711
+gps setlongitude 23,547483
+pause 1
+gps setlatitude 41,082739
+gps setlongitude 23,547475
+pause 1
+gps setlatitude 41,082764
+gps setlongitude 23,547438
+pause 1
+gps setlatitude 41,082799
+gps setlongitude 23,547411
+pause 1
+gps setlatitude 41,08283
+gps setlongitude 23,547398
+pause 1
+gps setlatitude 41,082863
+gps setlongitude 23,547414
+pause 1
+gps setlatitude 41,082894
+gps setlongitude 23,547435
+pause 1
+gps setlatitude 41,082924
+gps setlongitude 23,547457
+pause 1
+gps setlatitude 41,082961
+gps setlongitude 23,547483
+pause 1
+gps setlatitude 41,082997
+gps setlongitude 23,547505
+pause 1
+gps setlatitude 41,083025
+gps setlongitude 23,547518
+pause 1
+gps setlatitude 41,083059
+gps setlongitude 23,547534
+pause 1
+gps setlatitude 41,083088
+gps setlongitude 23,547557
+pause 1
+gps setlatitude 41,08312
+gps setlongitude 23,54757
+pause 1
+gps setlatitude 41,083149
+gps setlongitude 23,547586
+pause 1
+gps setlatitude 41,083174
+gps setlongitude 23,547599
+pause 1
+gps setlatitude 41,083201
+gps setlongitude 23,547609
+pause 1
+gps setlatitude 41,083224
+gps setlongitude 23,547631
+pause 1
+gps setlatitude 41,083246
+gps setlongitude 23,547657
+pause 1
+gps setlatitude 41,083269
+gps setlongitude 23,547676
+pause 1
+gps setlatitude 41,083291
+gps setlongitude 23,547697
+pause 1
+gps setlatitude 41,08332
+gps setlongitude 23,547727
+pause 1
+gps setlatitude 41,083358
+gps setlongitude 23,547745
+pause 1
+gps setlatitude 41,083391
+gps setlongitude 23,547767
+pause 1
+gps setlatitude 41,083424
+gps setlongitude 23,547785
+pause 1
+gps setlatitude 41,083453
+gps setlongitude 23,54781
+pause 1
+gps setlatitude 41,083483
+gps setlongitude 23,547825
+pause 1
+gps setlatitude 41,083517
+gps setlongitude 23,547838
+pause 1
+gps setlatitude 41,083549
+gps setlongitude 23,547856
+pause 1
+gps setlatitude 41,083583
+gps setlongitude 23,54787
+pause 1
+gps setlatitude 41,083617
+gps setlongitude 23,547885
+pause 1
+gps setlatitude 41,083656
+gps setlongitude 23,547899
+pause 1
+gps setlatitude 41,083695
+gps setlongitude 23,547903
+pause 1
+gps setlatitude 41,08373
+gps setlongitude 23,547916
+pause 1
+gps setlatitude 41,083763
+gps setlongitude 23,547938
+pause 1
+gps setlatitude 41,083791
+gps setlongitude 23,547963
+pause 1
+gps setlatitude 41,083795
+gps setlongitude 23,548012
+pause 1
+gps setlatitude 41,083803
+gps setlongitude 23,548066
+pause 1
+gps setlatitude 41,083818
+gps setlongitude 23,548116
+pause 1
+gps setlatitude 41,083847
+gps setlongitude 23,54816
+pause 1
+gps setlatitude 41,083887
+gps setlongitude 23,548172
+pause 1
+gps setlatitude 41,083938
+gps setlongitude 23,548191
+pause 1
+gps setlatitude 41,083972
+gps setlongitude 23,548213
+pause 1
+gps setlatitude 41,083997
+gps setlongitude 23,548232
+pause 1
+gps setlatitude 41,084021
+gps setlongitude 23,548249
+pause 1
+gps setlatitude 41,084057
+gps setlongitude 23,548247
+pause 1
+gps setlatitude 41,084091
+gps setlongitude 23,54826
+pause 1
+gps setlatitude 41,084114
+gps setlongitude 23,548282
+pause 1
+gps setlatitude 41,084138
+gps setlongitude 23,548311
+pause 1
+gps setlatitude 41,08417
+gps setlongitude 23,548323
+pause 1
+gps setlatitude 41,084204
+gps setlongitude 23,548318
+pause 1
+gps setlatitude 41,084231
+gps setlongitude 23,548315
+pause 1
+gps setlatitude 41,084263
+gps setlongitude 23,548315
+pause 1
+gps setlatitude 41,084292
+gps setlongitude 23,548326
+pause 1
+gps setlatitude 41,084321
+gps setlongitude 23,548341
+pause 1
+gps setlatitude 41,084351
+gps setlongitude 23,548358
+pause 1
+gps setlatitude 41,084384
+gps setlongitude 23,548377
+pause 1
+gps setlatitude 41,08442
+gps setlongitude 23,54839
+pause 1
+gps setlatitude 41,084447
+gps setlongitude 23,5484
+pause 1
+gps setlatitude 41,084474
+gps setlongitude 23,548413
+pause 1
+gps setlatitude 41,084509
+gps setlongitude 23,548429
+pause 1
+gps setlatitude 41,084543
+gps setlongitude 23,548446
+pause 1
+gps setlatitude 41,084574
+gps setlongitude 23,548471
+pause 1
+gps setlatitude 41,084602
+gps setlongitude 23,548497
+pause 1
+gps setlatitude 41,084635
+gps setlongitude 23,548513
+pause 1
+gps setlatitude 41,08467
+gps setlongitude 23,548518
+pause 1
+gps setlatitude 41,084703
+gps setlongitude 23,548522
+pause 1
+gps setlatitude 41,084742
+gps setlongitude 23,548521
+pause 1
+gps setlatitude 41,084769
+gps setlongitude 23,548517
+pause 1
+gps setlatitude 41,084798
+gps setlongitude 23,548515
+pause 1
+gps setlatitude 41,084838
+gps setlongitude 23,548516
+pause 1
+gps setlatitude 41,084872
+gps setlongitude 23,548521
+pause 1
+gps setlatitude 41,084904
+gps setlongitude 23,548524
+pause 1
+gps setlatitude 41,084945
+gps setlongitude 23,54853
+pause 1
+gps setlatitude 41,084977
+gps setlongitude 23,548529
+pause 1
+gps setlatitude 41,085007
+gps setlongitude 23,54853
+pause 1
+gps setlatitude 41,085036
+gps setlongitude 23,548528
+pause 1
+gps setlatitude 41,085075
+gps setlongitude 23,548523
+pause 1
+gps setlatitude 41,085107
+gps setlongitude 23,548522
+pause 1
+gps setlatitude 41,085133
+gps setlongitude 23,548515
+pause 1
+gps setlatitude 41,085161
+gps setlongitude 23,548521
+pause 1
+gps setlatitude 41,085192
+gps setlongitude 23,548527
+pause 1
+gps setlatitude 41,085229
+gps setlongitude 23,548529
+pause 1
+gps setlatitude 41,085263
+gps setlongitude 23,548522
+pause 1
+gps setlatitude 41,085294
+gps setlongitude 23,548517
+pause 1
+gps setlatitude 41,085323
+gps setlongitude 23,548512
+pause 1
+gps setlatitude 41,085351
+gps setlongitude 23,548511
+pause 1
+gps setlatitude 41,085382
+gps setlongitude 23,548511
+pause 1
+gps setlatitude 41,085417
+gps setlongitude 23,548512
+pause 1
+gps setlatitude 41,085453
+gps setlongitude 23,548522
+pause 1
+gps setlatitude 41,085491
+gps setlongitude 23,548524
+pause 1
+gps setlatitude 41,085525
+gps setlongitude 23,54852
+pause 1
+gps setlatitude 41,08556
+gps setlongitude 23,548522
+pause 1
+gps setlatitude 41,085596
+gps setlongitude 23,548538
+pause 1
+gps setlatitude 41,085633
+gps setlongitude 23,548553
+pause 1
+gps setlatitude 41,085669
+gps setlongitude 23,548573
+pause 1
+gps setlatitude 41,085698
+gps setlongitude 23,5486
+pause 1
+gps setlatitude 41,085723
+gps setlongitude 23,548618
+pause 1
+gps setlatitude 41,085751
+gps setlongitude 23,548626
+pause 1
+gps setlatitude 41,085782
+gps setlongitude 23,548646
+pause 1
+gps setlatitude 41,085805
+gps setlongitude 23,548671
+pause 1
+gps setlatitude 41,085838
+gps setlongitude 23,548693
+pause 1
+gps setlatitude 41,085864
+gps setlongitude 23,548704
+pause 1
+gps setlatitude 41,08589
+gps setlongitude 23,548718
+pause 1
+gps setlatitude 41,085919
+gps setlongitude 23,548729
+pause 1
+gps setlatitude 41,085948
+gps setlongitude 23,548746
+pause 1
+gps setlatitude 41,085975
+gps setlongitude 23,548768
+pause 1
+gps setlatitude 41,08601
+gps setlongitude 23,548766
+pause 1
+gps setlatitude 41,086036
+gps setlongitude 23,54878
+pause 1
+gps setlatitude 41,086075
+gps setlongitude 23,548784
+pause 1
+gps setlatitude 41,086109
+gps setlongitude 23,548776
+pause 1
+gps setlatitude 41,086131
+gps setlongitude 23,548744
+pause 1
+gps setlatitude 41,08616
+gps setlongitude 23,548717
+pause 1
+gps setlatitude 41,086193
+gps setlongitude 23,548697
+pause 1
+gps setlatitude 41,086217
+gps setlongitude 23,548679
+pause 1
+gps setlatitude 41,086247
+gps setlongitude 23,548648
+pause 1
+gps setlatitude 41,086276
+gps setlongitude 23,548615
+pause 1
+gps setlatitude 41,086294
+gps setlongitude 23,548576
+pause 1
+gps setlatitude 41,086317
+gps setlongitude 23,548533
+pause 1
+gps setlatitude 41,086354
+gps setlongitude 23,548513
+pause 1
+gps setlatitude 41,08639
+gps setlongitude 23,548495
+pause 1
+gps setlatitude 41,086422
+gps setlongitude 23,548477
+pause 1
+gps setlatitude 41,086435
+gps setlongitude 23,548521
+pause 1
+gps setlatitude 41,086449
+gps setlongitude 23,548556
+pause 1
+gps setlatitude 41,086476
+gps setlongitude 23,54858
+pause 1
+gps setlatitude 41,086502
+gps setlongitude 23,548604
+pause 1
+gps setlatitude 41,086536
+gps setlongitude 23,548627
+pause 1
+gps setlatitude 41,086577
+gps setlongitude 23,548685
+pause 1
+gps setlatitude 41,086607
+gps setlongitude 23,548704
+pause 1
+gps setlatitude 41,086626
+gps setlongitude 23,548741
+pause 1
+gps setlatitude 41,086616
+gps setlongitude 23,548776
+pause 1
+gps setlatitude 41,086636
+gps setlongitude 23,548812
+pause 1
+gps setlatitude 41,086673
+gps setlongitude 23,548838
+pause 1
+gps setlatitude 41,0867
+gps setlongitude 23,548867
+pause 1
+gps setlatitude 41,086722
+gps setlongitude 23,548899
+pause 1
+gps setlatitude 41,086726
+gps setlongitude 23,548941
+pause 1
+gps setlatitude 41,086747
+gps setlongitude 23,548968
+pause 1
+gps setlatitude 41,086785
+gps setlongitude 23,548994
+pause 1
+gps setlatitude 41,086823
+gps setlongitude 23,549018
+pause 1
+gps setlatitude 41,086857
+gps setlongitude 23,549045
+pause 1
+gps setlatitude 41,086887
+gps setlongitude 23,549079
+pause 1
+gps setlatitude 41,086917
+gps setlongitude 23,549096
+pause 1
+gps setlatitude 41,086942
+gps setlongitude 23,549114
+pause 1
+gps setlatitude 41,086932
+gps setlongitude 23,549067
+pause 1
+gps setlatitude 41,08694
+gps setlongitude 23,549024
+pause 1
+gps setlatitude 41,086952
+gps setlongitude 23,548984
+pause 1
+gps setlatitude 41,086984
+gps setlongitude 23,548958
+pause 1
+gps setlatitude 41,086974
+gps setlongitude 23,548903
+pause 1
+gps setlatitude 41,086957
+gps setlongitude 23,548864
+pause 1
+gps setlatitude 41,086948
+gps setlongitude 23,548816
+pause 1
+gps setlatitude 41,086939
+gps setlongitude 23,548764
+pause 1
+gps setlatitude 41,086934
+gps setlongitude 23,548718
+pause 1
+gps setlatitude 41,086966
+gps setlongitude 23,548681
+pause 1
+gps setlatitude 41,086995
+gps setlongitude 23,548661
+pause 1
+gps setlatitude 41,086993
+gps setlongitude 23,548603
+pause 1
+gps setlatitude 41,086979
+gps setlongitude 23,548537
+pause 1
+gps setlatitude 41,086985
+gps setlongitude 23,5485
+pause 1
+gps setlatitude 41,086984
+gps setlongitude 23,54845
+pause 1
+gps setlatitude 41,087002
+gps setlongitude 23,548411
+pause 1
+gps setlatitude 41,087047
+gps setlongitude 23,548412
+pause 1
+gps setlatitude 41,087076
+gps setlongitude 23,548405
+pause 1
+gps setlatitude 41,0871
+gps setlongitude 23,548386
+pause 1
+gps setlatitude 41,08714
+gps setlongitude 23,548358
+pause 1
+gps setlatitude 41,087175
+gps setlongitude 23,548345
+pause 1
+gps setlatitude 41,087195
+gps setlongitude 23,548306
+pause 1
+gps setlatitude 41,087207
+gps setlongitude 23,548262
+pause 1
+gps setlatitude 41,087216
+gps setlongitude 23,548228
+pause 1
+gps setlatitude 41,087225
+gps setlongitude 23,548184
+pause 1
+gps setlatitude 41,087235
+gps setlongitude 23,548143
+pause 1
+gps setlatitude 41,087257
+gps setlongitude 23,548121
+pause 1
+gps setlatitude 41,087283
+gps setlongitude 23,548105
+pause 1
+gps setlatitude 41,087312
+gps setlongitude 23,548094
+pause 1
+gps setlatitude 41,08728
+gps setlongitude 23,548099
+pause 1
+gps setlatitude 41,087255
+gps setlongitude 23,548124
+pause 1
+gps setlatitude 41,087229
+gps setlongitude 23,548136
+pause 1
+gps setlatitude 41,0872
+gps setlongitude 23,548145
+pause 1
+gps setlatitude 41,087173
+gps setlongitude 23,548166
+pause 1
+gps setlatitude 41,087155
+gps setlongitude 23,548202
+pause 1
+gps setlatitude 41,087158
+gps setlongitude 23,54825
+pause 1
+gps setlatitude 41,087174
+gps setlongitude 23,548281
+pause 1
+gps setlatitude 41,087195
+gps setlongitude 23,548318
+pause 1
+gps setlatitude 41,087218
+gps setlongitude 23,548346
+pause 1
+gps setlatitude 41,087247
+gps setlongitude 23,548371
+pause 1
+gps setlatitude 41,087285
+gps setlongitude 23,548405
+pause 1
+gps setlatitude 41,087308
+gps setlongitude 23,548424
+pause 1
+gps setlatitude 41,087326
+gps setlongitude 23,548453
+pause 1
+gps setlatitude 41,087332
+gps setlongitude 23,548491
+pause 1
+gps setlatitude 41,087354
+gps setlongitude 23,548523
+pause 1
+gps setlatitude 41,087381
+gps setlongitude 23,548552
+pause 1
+gps setlatitude 41,087411
+gps setlongitude 23,548578
+pause 1
+gps setlatitude 41,087437
+gps setlongitude 23,548616
+pause 1
+gps setlatitude 41,087457
+gps setlongitude 23,548644
+pause 1
+gps setlatitude 41,087476
+gps setlongitude 23,548683
+pause 1
+gps setlatitude 41,087496
+gps setlongitude 23,54871
+pause 1
+gps setlatitude 41,087518
+gps setlongitude 23,548751
+pause 1
+gps setlatitude 41,087536
+gps setlongitude 23,548784
+pause 1
+gps setlatitude 41,087568
+gps setlongitude 23,548791
+pause 1
+gps setlatitude 41,087597
+gps setlongitude 23,54877
+pause 1
+gps setlatitude 41,087624
+gps setlongitude 23,548766
+pause 1
+gps setlatitude 41,087649
+gps setlongitude 23,548778
+pause 1
+gps setlatitude 41,087628
+gps setlongitude 23,548805
+pause 1
+gps setlatitude 41,087604
+gps setlongitude 23,548824
+pause 1
+gps setlatitude 41,087563
+gps setlongitude 23,548835
+pause 1
+gps setlatitude 41,087538
+gps setlongitude 23,548851
+pause 1
+gps setlatitude 41,087559
+gps setlongitude 23,548891
+pause 1
+gps setlatitude 41,087581
+gps setlongitude 23,548913
+pause 1
+gps setlatitude 41,087601
+gps setlongitude 23,548939
+pause 1
+gps setlatitude 41,087605
+gps setlongitude 23,548982
+pause 1
+gps setlatitude 41,087603
+gps setlongitude 23,549028
+pause 1
+gps setlatitude 41,087586
+gps setlongitude 23,549077
+pause 1
+gps setlatitude 41,087565
+gps setlongitude 23,549132
+pause 1
+gps setlatitude 41,087552
+gps setlongitude 23,549167
+pause 1
+gps setlatitude 41,087519
+gps setlongitude 23,549186
+pause 1
